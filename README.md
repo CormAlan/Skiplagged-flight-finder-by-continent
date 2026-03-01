@@ -1,4 +1,4 @@
-# Skiplagged Continent Search (Elite Mode)
+# Skiplagged Continent Search 
 
 This project lets you do Avionero-style searches like:
 
@@ -81,25 +81,29 @@ Internet required for:
 
 Basic strong continent lists:
 
+```
 python hubs_builder.py \
   --outdir hubs \
   --top AS=220,EU=180,NA=200,SA=120,AF=120,OC=90 \
   --min-degree 15 \
   --include-medium
+```
 
 This creates:
 
+```
 hubs/asia_hubs.txt
 hubs/europe_hubs.txt
 hubs/NA_hubs.txt
 hubs/SA_hubs.txt
 hubs/africa_hubs.txt
 hubs/oceania_hubs.txt
+```
 
 Each line looks like:
-
+```
 HND  # 12345  Tokyo Haneda (JP) [large_airport] deg=987
-
+```
 Only the first token (IATA) is used by the search script.
 
 
@@ -109,7 +113,7 @@ Only the first token (IATA) is used by the search script.
 
 Example:
 Stockholm → Asia, single date:
-
+```
 python skiplagged_search.py \
   --origin ARN \
   --destinations-file hubs/asia_hubs.txt \
@@ -117,10 +121,10 @@ python skiplagged_search.py \
   --workers 6 --rps 2.0 --burst 4 \
   --cache-db cache.sqlite --ttl-hours 12 \
   --max-stops many --limit 5 --top 30
-
+```
 
 Date range (inclusive):
-
+```
 python skiplagged_search.py \
   --origin ARN \
   --destinations-file hubs/asia_hubs.txt \
@@ -129,14 +133,13 @@ python skiplagged_search.py \
   --cache-db cache.sqlite --ttl-hours 12 \
   --max-stops many --limit 5 --top 30 \
   --json-out results_AS.json
-
+```
 
 
 ## AUTO BUILD INSIDE SEARCH SCRIPT
 
-
 You can skip hubs_builder.py entirely:
-
+```
 python skiplagged_search.py \
   --origin ARN \
   --continent AS \
@@ -149,7 +152,7 @@ python skiplagged_search.py \
   --max-stops many --limit 5 --top 30 \
   --export-hubs hubs \
   --json-out results_AS.json
-
+```
 What happens:
 
 1. Downloads datasets (unless --no-download)
@@ -162,7 +165,7 @@ What happens:
 ## COMMON WORKFLOWS
 
 Find absolute cheapest in Asia next 14 days:
-
+```
 python skiplagged_search.py \
   --origin ARN \
   --continent AS \
@@ -175,10 +178,10 @@ python skiplagged_search.py \
   --max-stops many \
   --limit 5 \
   --top 50
-
+```
 
 Only nonstop flights to Europe:
-
+```
 python skiplagged_search.py \
   --origin ARN \
   --continent EU \
@@ -187,49 +190,53 @@ python skiplagged_search.py \
   --workers 4 --rps 1.2 --burst 2 \
   --cache-db cache.sqlite --ttl-hours 24 \
   --limit 5 --top 40
-
+```
 
 Export hubs only (no search):
-
+```
 python skiplagged_search.py \
   --origin ARN \
   --continent EU \
   --export-hubs hubs \
   --no-search \
   --verbose
-
+```
 
 ## PERFORMANCE TUNING
 
 
 Key flags:
-
+```
 --workers N
   Number of parallel async workers
-
+```
+```
 --rps X
   Requests per second refill rate
   0 = unlimited (not recommended)
-
+```
+```
 --burst B
   Max burst size (token bucket capacity)
-
+```
+```
 Safe starting values:
 --workers 4 --rps 1.5 --burst 3
-
+```
 
 ## CACHING
 
 Enable SQLite caching:
-
+```
 --cache-db cache.sqlite
 --ttl-hours 12
-
+```
 Same (origin, dest, date, filters) will hit cache within TTL.
 
 Disable cache:
+```
 --cache-db ""
-
+```
 
 ## HOW HUB SCORING WORKS
 
