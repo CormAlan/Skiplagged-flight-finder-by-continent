@@ -1,0 +1,56 @@
+# Nordics
+ARN
+CPH
+OSL
+HEL
+KEF
+
+# Western Europe
+LHR
+LGW
+MAN
+DUB
+CDG
+ORY
+AMS
+BRU
+FRA
+MUC
+ZRH
+GVA
+VIE
+LUX
+
+# Southern Europe
+MAD
+BCN
+LIS
+OPO
+FCO
+MXP
+VCE
+ATH
+NAP
+
+# Central / Eastern Europe
+WAW
+KRK
+PRG
+BUD
+OTP
+SOF
+ZAG
+LJU
+VNO
+RIX
+TLL
+
+# Balkans / SE Europe
+BEG
+SKP
+TIA
+SJJ
+
+# Turkey / edge Europe
+IST
+SAW

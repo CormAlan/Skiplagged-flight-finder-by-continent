@@ -1,0 +1,41 @@
+# Brazil
+GRU
+GIG
+BSB
+CNF
+POA
+REC
+SSA
+FOR
+
+# Argentina
+EZE
+AEP
+
+# Chile
+SCL
+
+# Colombia
+BOG
+MDE
+CTG
+
+# Peru
+LIM
+
+# Ecuador
+UIO
+GYE
+
+# Uruguay
+MVD
+
+# Paraguay
+ASU
+
+# Bolivia
+VVI
+LPB
+
+# Venezuela
+CCS
