@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-elite_hubs_builder.py
+hubs_builder.py
 
 Build continent hub lists using:
 - OurAirports airports.csv (continent, scheduled_service, type, iata_code, etc.)
@@ -10,8 +10,8 @@ Outputs:
   asia_hubs.txt, europe_hubs.txt, NA_hubs.txt, SA_hubs.txt, africa_hubs.txt, oceania_hubs.txt
 
 Usage:
-  python elite_hubs_builder.py --outdir . --top 120 --min-degree 50
-  python elite_hubs_builder.py --top AS=180,EU=140,NA=160,SA=90,AF=90,OC=80 --min-degree 20 --include-medium
+  python hubs_builder.py --outdir . --top 120 --min-degree 50
+  python hubs_builder.py --top AS=180,EU=140,NA=160,SA=90,AF=90,OC=80 --min-degree 20 --include-medium
 """
 
 from __future__ import annotations
@@ -44,6 +44,12 @@ TYPE_WEIGHT = {
     "large_airport": 1000,
     "medium_airport": 200,
     "small_airport": 0,
+}
+
+# Istanbul airports: force EU (never AS)
+CONTINENT_IATA_OVERRIDE = {
+    "IST": "EU",
+    "SAW": "EU",
 }
 
 @dataclass
@@ -138,18 +144,24 @@ def score_airport(iata: str, our: OurAirportRow, degree: int, include_medium: bo
     """
     if our.continent not in CONTINENT_NAME:
         return None
-    if our.scheduled_service != "yes":
+    # OurAirports scheduled_service can be "yes", "no", or blank.
+    # To avoid accidentally filtering everything (many rows are blank),
+    # we only exclude airports explicitly marked as not having scheduled service.
+    ss = (our.scheduled_service or "").strip().lower()
+    if ss in ("no", "n", "false", "0"):
         return None
-    if our.airport_type == "large_airport":
+
+    t = (our.airport_type or "").strip().lower()
+    if t == "large_airport":
         pass
-    elif our.airport_type == "medium_airport":
+    elif t == "medium_airport":
         if not include_medium:
             return None
     else:
         # exclude small/heliport/etc
         return None
 
-    return int(degree) + TYPE_WEIGHT.get(our.airport_type, 0)
+    return int(degree) + TYPE_WEIGHT.get(t, 0)
 
 def write_list(path: str, items: List[Tuple[str, int, str]]) -> None:
     """
@@ -179,7 +191,7 @@ def parse_top_overrides(s: Optional[str]) -> Dict[str, int]:
 def main(argv: Optional[List[str]] = None) -> int:
     ap = argparse.ArgumentParser()
     ap.add_argument("--data-dir", default="data_airports", help="Where to store downloaded datasets")
-    ap.add_argument("--outdir", default=".", help="Output directory for *_hubs.txt")
+    ap.add_argument("--outdir", default="./hubs", help="Output directory for *_hubs.txt")
     ap.add_argument("--top", default="120", help="Top N per continent (int) OR overrides like AS=180,EU=140,...")
     ap.add_argument("--min-degree", type=int, default=30, help="Minimum route-degree to include (after filters)")
     ap.add_argument("--include-medium", action="store_true", help="Include medium airports (otherwise only large)")
@@ -236,7 +248,8 @@ def main(argv: Optional[List[str]] = None) -> int:
         if sc is None:
             continue
         comment = f"{our.name} ({our.iso_country}) [{our.airport_type}]"
-        by_continent[our.continent].append((iata, sc, comment))
+        eff_cont = CONTINENT_IATA_OVERRIDE.get(iata, our.continent)
+        by_continent[eff_cont].append((iata, sc, comment))
 
     # Sort and write
     for cont, items in by_continent.items():
