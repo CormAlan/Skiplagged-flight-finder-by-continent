@@ -1,1 +1,3 @@
-./data_airports/*
+data_airports/
+hubs/
+cache.sqlite
