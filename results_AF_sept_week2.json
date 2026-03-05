@@ -1,0 +1,4016 @@
+[
+  {
+    "origin": "ARN",
+    "dest": "BIO",
+    "departure_date": "2026-09-08",
+    "return_date": "2026-09-15",
+    "price": 153.0,
+    "price_outbound": 89.0,
+    "price_return": 64.0,
+    "duration": "Outbound: 10h 5m<br/>Return: 20h 25m",
+    "stops": "Outbound: 1 stop / Return: 1 stop",
+    "url_outbound": "https://skiplagged.com/flights/ARN/BIO/2026-09-08?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=D84455-W95363",
+    "url_return": "https://skiplagged.com/flights/BIO/ARN/2026-09-15?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=VY1425-VY1265",
+    "raw": {
+      "rt_total_mode": "sum_oneways",
+      "price_outbound_min": 89.0,
+      "price_return_min": 64.0
+    }
+  },
+  {
+    "origin": "ARN",
+    "dest": "RAK",
+    "departure_date": "2026-09-05",
+    "return_date": "2026-09-15",
+    "price": 157.0,
+    "price_outbound": 77.0,
+    "price_return": 80.0,
+    "duration": "Outbound: 5h 10m<br/>Return: 5h",
+    "stops": "Outbound: Nonstop / Return: Nonstop",
+    "url_outbound": "https://skiplagged.com/flights/ARN/RAK/2026-09-05?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=D84527",
+    "url_return": "https://skiplagged.com/flights/RAK/ARN/2026-09-15?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=D84528",
+    "raw": {
+      "rt_total_mode": "sum_oneways",
+      "price_outbound_min": 77.0,
+      "price_return_min": 80.0
+    }
+  },
+  {
+    "origin": "ARN",
+    "dest": "RAK",
+    "departure_date": "2026-09-08",
+    "return_date": "2026-09-15",
+    "price": 157.0,
+    "price_outbound": 77.0,
+    "price_return": 80.0,
+    "duration": "Outbound: 5h 10m<br/>Return: 5h",
+    "stops": "Outbound: Nonstop / Return: Nonstop",
+    "url_outbound": "https://skiplagged.com/flights/ARN/RAK/2026-09-08?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=D84527",
+    "url_return": "https://skiplagged.com/flights/RAK/ARN/2026-09-15?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=D84528",
+    "raw": {
+      "rt_total_mode": "sum_oneways",
+      "price_outbound_min": 77.0,
+      "price_return_min": 80.0
+    }
+  },
+  {
+    "origin": "ARN",
+    "dest": "BIO",
+    "departure_date": "2026-09-07",
+    "return_date": "2026-09-15",
+    "price": 159.0,
+    "price_outbound": 95.0,
+    "price_return": 64.0,
+    "duration": "Outbound: 12h 20m<br/>Return: 20h 25m",
+    "stops": "Outbound: 1 stop / Return: 1 stop",
+    "url_outbound": "https://skiplagged.com/flights/ARN/BIO/2026-09-07?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=D85601-VY3937",
+    "url_return": "https://skiplagged.com/flights/BIO/ARN/2026-09-15?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=VY1425-VY1265",
+    "raw": {
+      "rt_total_mode": "sum_oneways",
+      "price_outbound_min": 95.0,
+      "price_return_min": 64.0
+    }
+  },
+  {
+    "origin": "ARN",
+    "dest": "RAK",
+    "departure_date": "2026-09-05",
+    "return_date": "2026-09-14",
+    "price": 163.0,
+    "price_outbound": 77.0,
+    "price_return": 86.0,
+    "duration": "Outbound: 5h 10m<br/>Return: 5h 5m",
+    "stops": "Outbound: Nonstop / Return: Nonstop",
+    "url_outbound": "https://skiplagged.com/flights/ARN/RAK/2026-09-05?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=D84527",
+    "url_return": "https://skiplagged.com/flights/RAK/ARN/2026-09-14?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=FR9796",
+    "raw": {
+      "rt_total_mode": "sum_oneways",
+      "price_outbound_min": 77.0,
+      "price_return_min": 86.0
+    }
+  },
+  {
+    "origin": "ARN",
+    "dest": "RAK",
+    "departure_date": "2026-09-08",
+    "return_date": "2026-09-14",
+    "price": 163.0,
+    "price_outbound": 77.0,
+    "price_return": 86.0,
+    "duration": "Outbound: 5h 10m<br/>Return: 5h 5m",
+    "stops": "Outbound: Nonstop / Return: Nonstop",
+    "url_outbound": "https://skiplagged.com/flights/ARN/RAK/2026-09-08?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=D84527",
+    "url_return": "https://skiplagged.com/flights/RAK/ARN/2026-09-14?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=FR9796",
+    "raw": {
+      "rt_total_mode": "sum_oneways",
+      "price_outbound_min": 77.0,
+      "price_return_min": 86.0
+    }
+  },
+  {
+    "origin": "ARN",
+    "dest": "RAK",
+    "departure_date": "2026-09-06",
+    "return_date": "2026-09-15",
+    "price": 166.0,
+    "price_outbound": 86.0,
+    "price_return": 80.0,
+    "duration": "Outbound: 24h 45m<br/>Return: 5h",
+    "stops": "Outbound: 2 stops / Return: Nonstop",
+    "url_outbound": "https://skiplagged.com/flights/ARN/RAK/2026-09-06?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=W61732-W61713-W46489",
+    "url_return": "https://skiplagged.com/flights/RAK/ARN/2026-09-15?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=D84528",
+    "raw": {
+      "rt_total_mode": "sum_oneways",
+      "price_outbound_min": 86.0,
+      "price_return_min": 80.0
+    }
+  },
+  {
+    "origin": "ARN",
+    "dest": "BIO",
+    "departure_date": "2026-09-08",
+    "return_date": "2026-09-14",
+    "price": 169.0,
+    "price_outbound": 89.0,
+    "price_return": 80.0,
+    "duration": "Outbound: 10h 5m<br/>Return: 35h 5m",
+    "stops": "Outbound: 1 stop / Return: 2 stops",
+    "url_outbound": "https://skiplagged.com/flights/ARN/BIO/2026-09-08?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=D84455-W95363",
+    "url_return": "https://skiplagged.com/flights/BIO/ARN/2026-09-14?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=VY3932-VY3905-VY1265",
+    "raw": {
+      "rt_total_mode": "sum_oneways",
+      "price_outbound_min": 89.0,
+      "price_return_min": 80.0
+    }
+  },
+  {
+    "origin": "ARN",
+    "dest": "RAK",
+    "departure_date": "2026-09-06",
+    "return_date": "2026-09-14",
+    "price": 172.0,
+    "price_outbound": 86.0,
+    "price_return": 86.0,
+    "duration": "Outbound: 24h 45m<br/>Return: 5h 5m",
+    "stops": "Outbound: 2 stops / Return: Nonstop",
+    "url_outbound": "https://skiplagged.com/flights/ARN/RAK/2026-09-06?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=W61732-W61713-W46489",
+    "url_return": "https://skiplagged.com/flights/RAK/ARN/2026-09-14?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=FR9796",
+    "raw": {
+      "rt_total_mode": "sum_oneways",
+      "price_outbound_min": 86.0,
+      "price_return_min": 86.0
+    }
+  },
+  {
+    "origin": "ARN",
+    "dest": "SVQ",
+    "departure_date": "2026-09-07",
+    "return_date": "2026-09-15",
+    "price": 172.0,
+    "price_outbound": 97.0,
+    "price_return": 75.0,
+    "duration": "Outbound: 25h 20m<br/>Return: 10h 55m",
+    "stops": "Outbound: 2 stops / Return: 1 stop",
+    "url_outbound": "https://skiplagged.com/flights/ARN/SVQ/2026-09-07?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=W61732-W61713-W46309",
+    "url_return": "https://skiplagged.com/flights/SVQ/ARN/2026-09-15?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=VY2221-VY1265",
+    "raw": {
+      "rt_total_mode": "sum_oneways",
+      "price_outbound_min": 97.0,
+      "price_return_min": 75.0
+    }
+  },
+  {
+    "origin": "ARN",
+    "dest": "BIO",
+    "departure_date": "2026-09-07",
+    "return_date": "2026-09-14",
+    "price": 175.0,
+    "price_outbound": 95.0,
+    "price_return": 80.0,
+    "duration": "Outbound: 12h 20m<br/>Return: 35h 5m",
+    "stops": "Outbound: 1 stop / Return: 2 stops",
+    "url_outbound": "https://skiplagged.com/flights/ARN/BIO/2026-09-07?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=D85601-VY3937",
+    "url_return": "https://skiplagged.com/flights/BIO/ARN/2026-09-14?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=VY3932-VY3905-VY1265",
+    "raw": {
+      "rt_total_mode": "sum_oneways",
+      "price_outbound_min": 95.0,
+      "price_return_min": 80.0
+    }
+  },
+  {
+    "origin": "ARN",
+    "dest": "TUN",
+    "departure_date": "2026-09-07",
+    "return_date": "2026-09-12",
+    "price": 177.0,
+    "price_outbound": 87.0,
+    "price_return": 90.0,
+    "duration": "Outbound: 3h 45m<br/>Return: 3h 20m",
+    "stops": "Outbound: Nonstop / Return: Nonstop",
+    "url_outbound": "https://skiplagged.com/flights/TPE/BKK/2026-05-06?utm_source=n8n_n8n_nodes_langchain_mcpclient&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=VZ571",
+    "url_return": "https://skiplagged.com/flights/KIX/TPE/2026-11-11?utm_source=n8n_n8n_nodes_langchain_mcpclient&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=GK55",
+    "raw": {
+      "rt_total_mode": "sum_oneways",
+      "price_outbound_min": 87.0,
+      "price_return_min": 90.0
+    }
+  },
+  {
+    "origin": "ARN",
+    "dest": "RAK",
+    "departure_date": "2026-09-07",
+    "return_date": "2026-09-15",
+    "price": 178.0,
+    "price_outbound": 98.0,
+    "price_return": 80.0,
+    "duration": "Outbound: 31h 15m<br/>Return: 5h",
+    "stops": "Outbound: 1 stop / Return: Nonstop",
+    "url_outbound": "https://skiplagged.com/flights/ARN/RAK/2026-09-07?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=W62404-W62459",
+    "url_return": "https://skiplagged.com/flights/RAK/ARN/2026-09-15?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=D84528",
+    "raw": {
+      "rt_total_mode": "sum_oneways",
+      "price_outbound_min": 98.0,
+      "price_return_min": 80.0
+    }
+  },
+  {
+    "origin": "ARN",
+    "dest": "RAK",
+    "departure_date": "2026-09-05",
+    "return_date": "2026-09-12",
+    "price": 180.0,
+    "price_outbound": 77.0,
+    "price_return": 103.0,
+    "duration": "Outbound: 5h 10m<br/>Return: 5h",
+    "stops": "Outbound: Nonstop / Return: Nonstop",
+    "url_outbound": "https://skiplagged.com/flights/ARN/RAK/2026-09-05?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=D84527",
+    "url_return": "https://skiplagged.com/flights/RAK/ARN/2026-09-12?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=D84528",
+    "raw": {
+      "rt_total_mode": "sum_oneways",
+      "price_outbound_min": 77.0,
+      "price_return_min": 103.0
+    }
+  },
+  {
+    "origin": "ARN",
+    "dest": "RAK",
+    "departure_date": "2026-09-08",
+    "return_date": "2026-09-12",
+    "price": 180.0,
+    "price_outbound": 77.0,
+    "price_return": 103.0,
+    "duration": "Outbound: 5h 10m<br/>Return: 5h",
+    "stops": "Outbound: Nonstop / Return: Nonstop",
+    "url_outbound": "https://skiplagged.com/flights/ARN/RAK/2026-09-08?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=D84527",
+    "url_return": "https://skiplagged.com/flights/RAK/ARN/2026-09-12?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=D84528",
+    "raw": {
+      "rt_total_mode": "sum_oneways",
+      "price_outbound_min": 77.0,
+      "price_return_min": 103.0
+    }
+  },
+  {
+    "origin": "ARN",
+    "dest": "RAK",
+    "departure_date": "2026-09-07",
+    "return_date": "2026-09-14",
+    "price": 184.0,
+    "price_outbound": 98.0,
+    "price_return": 86.0,
+    "duration": "Outbound: 31h 15m<br/>Return: 5h 5m",
+    "stops": "Outbound: 1 stop / Return: Nonstop",
+    "url_outbound": "https://skiplagged.com/flights/ARN/RAK/2026-09-07?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=W62404-W62459",
+    "url_return": "https://skiplagged.com/flights/RAK/ARN/2026-09-14?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=FR9796",
+    "raw": {
+      "rt_total_mode": "sum_oneways",
+      "price_outbound_min": 98.0,
+      "price_return_min": 86.0
+    }
+  },
+  {
+    "origin": "ARN",
+    "dest": "SVQ",
+    "departure_date": "2026-09-08",
+    "return_date": "2026-09-15",
+    "price": 184.0,
+    "price_outbound": 109.0,
+    "price_return": 75.0,
+    "duration": "Outbound: 14h<br/>Return: 10h 55m",
+    "stops": "Outbound: 1 stop / Return: 1 stop",
+    "url_outbound": "https://skiplagged.com/flights/ARN/SVQ/2026-09-08?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=IB828-IB605",
+    "url_return": "https://skiplagged.com/flights/SVQ/ARN/2026-09-15?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=VY2221-VY1265",
+    "raw": {
+      "rt_total_mode": "sum_oneways",
+      "price_outbound_min": 109.0,
+      "price_return_min": 75.0
+    }
+  },
+  {
+    "origin": "ARN",
+    "dest": "RAK",
+    "departure_date": "2026-09-06",
+    "return_date": "2026-09-12",
+    "price": 189.0,
+    "price_outbound": 86.0,
+    "price_return": 103.0,
+    "duration": "Outbound: 24h 45m<br/>Return: 5h",
+    "stops": "Outbound: 2 stops / Return: Nonstop",
+    "url_outbound": "https://skiplagged.com/flights/ARN/RAK/2026-09-06?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=W61732-W61713-W46489",
+    "url_return": "https://skiplagged.com/flights/RAK/ARN/2026-09-12?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=D84528",
+    "raw": {
+      "rt_total_mode": "sum_oneways",
+      "price_outbound_min": 86.0,
+      "price_return_min": 103.0
+    }
+  },
+  {
+    "origin": "ARN",
+    "dest": "BIO",
+    "departure_date": "2026-09-08",
+    "return_date": "2026-09-13",
+    "price": 191.0,
+    "price_outbound": 89.0,
+    "price_return": 102.0,
+    "duration": "Outbound: 10h 5m<br/>Return: 26h 35m",
+    "stops": "Outbound: 1 stop / Return: 2 stops",
+    "url_outbound": "https://skiplagged.com/flights/ARN/BIO/2026-09-08?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=D84455-W95363",
+    "url_return": "https://skiplagged.com/flights/BIO/ARN/2026-09-13?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=W46412-W42334-W62403",
+    "raw": {
+      "rt_total_mode": "sum_oneways",
+      "price_outbound_min": 89.0,
+      "price_return_min": 102.0
+    }
+  },
+  {
+    "origin": "ARN",
+    "dest": "FUE",
+    "departure_date": "2026-09-07",
+    "return_date": "2026-09-15",
+    "price": 195.0,
+    "price_outbound": 96.0,
+    "price_return": 99.0,
+    "duration": "Outbound: 2h 40m<br/>Return: 38h 25m",
+    "stops": "Outbound: Nonstop / Return: 2 stops",
+    "url_outbound": "https://skiplagged.com/flights/TPE/KIX/2026-11-07?utm_source=n8n_n8n_nodes_langchain_mcpclient&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=D7378",
+    "url_return": "https://skiplagged.com/flights/FUE/ARN/2026-09-14?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=PM876-VY3003-VY1265",
+    "raw": {
+      "rt_total_mode": "sum_oneways",
+      "price_outbound_min": 96.0,
+      "price_return_min": 99.0
+    }
+  },
+  {
+    "origin": "ARN",
+    "dest": "BIO",
+    "departure_date": "2026-09-05",
+    "return_date": "2026-09-15",
+    "price": 195.0,
+    "price_outbound": 131.0,
+    "price_return": 64.0,
+    "duration": "Outbound: 20h 10m<br/>Return: 20h 25m",
+    "stops": "Outbound: 1 stop / Return: 1 stop",
+    "url_outbound": "https://skiplagged.com/flights/ARN/BIO/2026-09-05?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=FR1945-W61455",
+    "url_return": "https://skiplagged.com/flights/BIO/ARN/2026-09-15?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=VY1425-VY1265",
+    "raw": {
+      "rt_total_mode": "sum_oneways",
+      "price_outbound_min": 131.0,
+      "price_return_min": 64.0
+    }
+  },
+  {
+    "origin": "ARN",
+    "dest": "SVQ",
+    "departure_date": "2026-09-05",
+    "return_date": "2026-09-15",
+    "price": 196.0,
+    "price_outbound": 121.0,
+    "price_return": 75.0,
+    "duration": "Outbound: 11h 40m<br/>Return: 10h 55m",
+    "stops": "Outbound: 1 stop / Return: 1 stop",
+    "url_outbound": "https://skiplagged.com/flights/ARN/SVQ/2026-09-05?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=KL1226-KL2544",
+    "url_return": "https://skiplagged.com/flights/SVQ/ARN/2026-09-15?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=VY2221-VY1265",
+    "raw": {
+      "rt_total_mode": "sum_oneways",
+      "price_outbound_min": 121.0,
+      "price_return_min": 75.0
+    }
+  },
+  {
+    "origin": "ARN",
+    "dest": "BIO",
+    "departure_date": "2026-09-07",
+    "return_date": "2026-09-13",
+    "price": 197.0,
+    "price_outbound": 95.0,
+    "price_return": 102.0,
+    "duration": "Outbound: 12h 20m<br/>Return: 26h 35m",
+    "stops": "Outbound: 1 stop / Return: 2 stops",
+    "url_outbound": "https://skiplagged.com/flights/ARN/BIO/2026-09-07?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=D85601-VY3937",
+    "url_return": "https://skiplagged.com/flights/BIO/ARN/2026-09-13?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=W46412-W42334-W62403",
+    "raw": {
+      "rt_total_mode": "sum_oneways",
+      "price_outbound_min": 95.0,
+      "price_return_min": 102.0
+    }
+  },
+  {
+    "origin": "ARN",
+    "dest": "RAK",
+    "departure_date": "2026-09-07",
+    "return_date": "2026-09-12",
+    "price": 201.0,
+    "price_outbound": 98.0,
+    "price_return": 103.0,
+    "duration": "Outbound: 31h 15m<br/>Return: 5h",
+    "stops": "Outbound: 1 stop / Return: Nonstop",
+    "url_outbound": "https://skiplagged.com/flights/ARN/RAK/2026-09-07?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=W62404-W62459",
+    "url_return": "https://skiplagged.com/flights/RAK/ARN/2026-09-12?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=D84528",
+    "raw": {
+      "rt_total_mode": "sum_oneways",
+      "price_outbound_min": 98.0,
+      "price_return_min": 103.0
+    }
+  },
+  {
+    "origin": "ARN",
+    "dest": "SVQ",
+    "departure_date": "2026-09-07",
+    "return_date": "2026-09-13",
+    "price": 201.0,
+    "price_outbound": 97.0,
+    "price_return": 104.0,
+    "duration": "Outbound: 25h 20m<br/>Return: 8h 40m",
+    "stops": "Outbound: 2 stops / Return: 1 stop",
+    "url_outbound": "https://skiplagged.com/flights/ARN/SVQ/2026-09-07?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=W61732-W61713-W46309",
+    "url_return": "https://skiplagged.com/flights/SVQ/ARN/2026-09-13?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=IB1752-IB827",
+    "raw": {
+      "rt_total_mode": "sum_oneways",
+      "price_outbound_min": 97.0,
+      "price_return_min": 104.0
+    }
+  },
+  {
+    "origin": "ARN",
+    "dest": "LPA",
+    "departure_date": "2026-09-06",
+    "return_date": "2026-09-15",
+    "price": 207.0,
+    "price_outbound": 137.0,
+    "price_return": 70.0,
+    "duration": "Outbound: 8h 20m<br/>Return: 13h",
+    "stops": "Outbound: 1 stop / Return: 1 stop",
+    "url_outbound": "https://skiplagged.com/flights/ARN/LPA/2026-09-06?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=IB828-IB1633",
+    "url_return": "https://skiplagged.com/flights/LPA/ARN/2026-09-15?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=VY3007-VY1265",
+    "raw": {
+      "rt_total_mode": "sum_oneways",
+      "price_outbound_min": 137.0,
+      "price_return_min": 70.0
+    }
+  },
+  {
+    "origin": "ARN",
+    "dest": "LPA",
+    "departure_date": "2026-09-07",
+    "return_date": "2026-09-15",
+    "price": 207.0,
+    "price_outbound": 137.0,
+    "price_return": 70.0,
+    "duration": "Outbound: 57h 45m<br/>Return: 13h",
+    "stops": "Outbound: 2 stops / Return: 1 stop",
+    "url_outbound": "https://skiplagged.com/flights/ARN/LPA/2026-09-07?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=W62404-W62459-FR1447",
+    "url_return": "https://skiplagged.com/flights/LPA/ARN/2026-09-15?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=VY3007-VY1265",
+    "raw": {
+      "rt_total_mode": "sum_oneways",
+      "price_outbound_min": 137.0,
+      "price_return_min": 70.0
+    }
+  },
+  {
+    "origin": "ARN",
+    "dest": "LPA",
+    "departure_date": "2026-09-08",
+    "return_date": "2026-09-15",
+    "price": 207.0,
+    "price_outbound": 137.0,
+    "price_return": 70.0,
+    "duration": "Outbound: 18h 40m<br/>Return: 13h",
+    "stops": "Outbound: 1 stop / Return: 1 stop",
+    "url_outbound": "https://skiplagged.com/flights/ARN/LPA/2026-09-08?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=IB828-IB1605",
+    "url_return": "https://skiplagged.com/flights/LPA/ARN/2026-09-15?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=VY3007-VY1265",
+    "raw": {
+      "rt_total_mode": "sum_oneways",
+      "price_outbound_min": 137.0,
+      "price_return_min": 70.0
+    }
+  },
+  {
+    "origin": "ARN",
+    "dest": "TUN",
+    "departure_date": "2026-09-07",
+    "return_date": "2026-09-14",
+    "price": 207.0,
+    "price_outbound": 87.0,
+    "price_return": 120.0,
+    "duration": "Outbound: 3h 45m<br/>Return: 27h 50m",
+    "stops": "Outbound: Nonstop / Return: 1 stop",
+    "url_outbound": "https://skiplagged.com/flights/TPE/BKK/2026-05-06?utm_source=n8n_n8n_nodes_langchain_mcpclient&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=VZ571",
+    "url_return": "https://skiplagged.com/flights/TUN/ARN/2026-09-14?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=BJ516-FR8737",
+    "raw": {
+      "rt_total_mode": "sum_oneways",
+      "price_outbound_min": 87.0,
+      "price_return_min": 120.0
+    }
+  },
+  {
+    "origin": "ARN",
+    "dest": "ALG",
+    "departure_date": "2026-09-06",
+    "return_date": "2026-09-12",
+    "price": 209.0,
+    "price_outbound": 121.0,
+    "price_return": 88.0,
+    "duration": "Outbound: 49h 45m<br/>Return: 3h 50m",
+    "stops": "Outbound: 2 stops / Return: Nonstop",
+    "url_outbound": "https://skiplagged.com/flights/ARN/ALG/2026-09-06?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=D85601-VY3919-VY6152",
+    "url_return": "https://skiplagged.com/flights/BKK/TPE/2026-05-12?utm_source=n8n_n8n_nodes_langchain_mcpclient&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=VZ566",
+    "raw": {
+      "rt_total_mode": "sum_oneways",
+      "price_outbound_min": 121.0,
+      "price_return_min": 88.0
+    }
+  },
+  {
+    "origin": "ARN",
+    "dest": "ALG",
+    "departure_date": "2026-09-07",
+    "return_date": "2026-09-12",
+    "price": 209.0,
+    "price_outbound": 121.0,
+    "price_return": 88.0,
+    "duration": "Outbound: 37h 15m<br/>Return: 3h 50m",
+    "stops": "Outbound: 2 stops / Return: Nonstop",
+    "url_outbound": "https://skiplagged.com/flights/ARN/ALG/2026-09-07?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=D85601-VY3923-VY6154",
+    "url_return": "https://skiplagged.com/flights/BKK/TPE/2026-05-12?utm_source=n8n_n8n_nodes_langchain_mcpclient&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=VZ566",
+    "raw": {
+      "rt_total_mode": "sum_oneways",
+      "price_outbound_min": 121.0,
+      "price_return_min": 88.0
+    }
+  },
+  {
+    "origin": "ARN",
+    "dest": "ALG",
+    "departure_date": "2026-09-08",
+    "return_date": "2026-09-12",
+    "price": 209.0,
+    "price_outbound": 121.0,
+    "price_return": 88.0,
+    "duration": "Outbound: 25h 25m<br/>Return: 3h 50m",
+    "stops": "Outbound: 2 stops / Return: Nonstop",
+    "url_outbound": "https://skiplagged.com/flights/ARN/ALG/2026-09-08?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=W61732-W61705-VY6154",
+    "url_return": "https://skiplagged.com/flights/BKK/TPE/2026-05-12?utm_source=n8n_n8n_nodes_langchain_mcpclient&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=VZ566",
+    "raw": {
+      "rt_total_mode": "sum_oneways",
+      "price_outbound_min": 121.0,
+      "price_return_min": 88.0
+    }
+  },
+  {
+    "origin": "ARN",
+    "dest": "BIO",
+    "departure_date": "2026-09-05",
+    "return_date": "2026-09-14",
+    "price": 211.0,
+    "price_outbound": 131.0,
+    "price_return": 80.0,
+    "duration": "Outbound: 20h 10m<br/>Return: 35h 5m",
+    "stops": "Outbound: 1 stop / Return: 2 stops",
+    "url_outbound": "https://skiplagged.com/flights/ARN/BIO/2026-09-05?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=FR1945-W61455",
+    "url_return": "https://skiplagged.com/flights/BIO/ARN/2026-09-14?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=VY3932-VY3905-VY1265",
+    "raw": {
+      "rt_total_mode": "sum_oneways",
+      "price_outbound_min": 131.0,
+      "price_return_min": 80.0
+    }
+  },
+  {
+    "origin": "ARN",
+    "dest": "SVQ",
+    "departure_date": "2026-09-08",
+    "return_date": "2026-09-13",
+    "price": 213.0,
+    "price_outbound": 109.0,
+    "price_return": 104.0,
+    "duration": "Outbound: 14h<br/>Return: 8h 40m",
+    "stops": "Outbound: 1 stop / Return: 1 stop",
+    "url_outbound": "https://skiplagged.com/flights/ARN/SVQ/2026-09-08?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=IB828-IB605",
+    "url_return": "https://skiplagged.com/flights/SVQ/ARN/2026-09-13?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=IB1752-IB827",
+    "raw": {
+      "rt_total_mode": "sum_oneways",
+      "price_outbound_min": 109.0,
+      "price_return_min": 104.0
+    }
+  },
+  {
+    "origin": "ARN",
+    "dest": "ALG",
+    "departure_date": "2026-09-05",
+    "return_date": "2026-09-12",
+    "price": 214.0,
+    "price_outbound": 126.0,
+    "price_return": 88.0,
+    "duration": "Outbound: 7h 30m<br/>Return: 3h 50m",
+    "stops": "Outbound: 1 stop / Return: Nonstop",
+    "url_outbound": "https://skiplagged.com/flights/ARN/TUN/2026-09-07?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=D84377-TU757",
+    "url_return": "https://skiplagged.com/flights/BKK/TPE/2026-05-12?utm_source=n8n_n8n_nodes_langchain_mcpclient&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=VZ566",
+    "raw": {
+      "rt_total_mode": "sum_oneways",
+      "price_outbound_min": 126.0,
+      "price_return_min": 88.0
+    }
+  },
+  {
+    "origin": "ARN",
+    "dest": "ALG",
+    "departure_date": "2026-09-06",
+    "return_date": "2026-09-15",
+    "price": 216.0,
+    "price_outbound": 121.0,
+    "price_return": 95.0,
+    "duration": "Outbound: 49h 45m<br/>Return: 10h 50m",
+    "stops": "Outbound: 2 stops / Return: 1 stop",
+    "url_outbound": "https://skiplagged.com/flights/ARN/ALG/2026-09-06?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=D85601-VY3919-VY6152",
+    "url_return": "https://skiplagged.com/flights/ALG/ARN/2026-09-15?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=VY6153-VY1265",
+    "raw": {
+      "rt_total_mode": "sum_oneways",
+      "price_outbound_min": 121.0,
+      "price_return_min": 95.0
+    }
+  },
+  {
+    "origin": "ARN",
+    "dest": "ALG",
+    "departure_date": "2026-09-07",
+    "return_date": "2026-09-15",
+    "price": 216.0,
+    "price_outbound": 121.0,
+    "price_return": 95.0,
+    "duration": "Outbound: 37h 15m<br/>Return: 10h 50m",
+    "stops": "Outbound: 2 stops / Return: 1 stop",
+    "url_outbound": "https://skiplagged.com/flights/ARN/ALG/2026-09-07?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=D85601-VY3923-VY6154",
+    "url_return": "https://skiplagged.com/flights/ALG/ARN/2026-09-15?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=VY6153-VY1265",
+    "raw": {
+      "rt_total_mode": "sum_oneways",
+      "price_outbound_min": 121.0,
+      "price_return_min": 95.0
+    }
+  },
+  {
+    "origin": "ARN",
+    "dest": "ALG",
+    "departure_date": "2026-09-08",
+    "return_date": "2026-09-15",
+    "price": 216.0,
+    "price_outbound": 121.0,
+    "price_return": 95.0,
+    "duration": "Outbound: 25h 25m<br/>Return: 10h 50m",
+    "stops": "Outbound: 2 stops / Return: 1 stop",
+    "url_outbound": "https://skiplagged.com/flights/ARN/ALG/2026-09-08?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=W61732-W61705-VY6154",
+    "url_return": "https://skiplagged.com/flights/ALG/ARN/2026-09-15?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=VY6153-VY1265",
+    "raw": {
+      "rt_total_mode": "sum_oneways",
+      "price_outbound_min": 121.0,
+      "price_return_min": 95.0
+    }
+  },
+  {
+    "origin": "ARN",
+    "dest": "ALG",
+    "departure_date": "2026-09-05",
+    "return_date": "2026-09-15",
+    "price": 221.0,
+    "price_outbound": 126.0,
+    "price_return": 95.0,
+    "duration": "Outbound: 7h 30m<br/>Return: 10h 50m",
+    "stops": "Outbound: 1 stop / Return: 1 stop",
+    "url_outbound": "https://skiplagged.com/flights/ARN/TUN/2026-09-07?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=D84377-TU757",
+    "url_return": "https://skiplagged.com/flights/ALG/ARN/2026-09-15?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=VY6153-VY1265",
+    "raw": {
+      "rt_total_mode": "sum_oneways",
+      "price_outbound_min": 126.0,
+      "price_return_min": 95.0
+    }
+  },
+  {
+    "origin": "ARN",
+    "dest": "FUE",
+    "departure_date": "2026-09-07",
+    "return_date": "2026-09-14",
+    "price": 225.0,
+    "price_outbound": 96.0,
+    "price_return": 129.0,
+    "duration": "Outbound: 2h 40m<br/>Return: 35h 15m",
+    "stops": "Outbound: Nonstop / Return: 2 stops",
+    "url_outbound": "https://skiplagged.com/flights/TPE/KIX/2026-11-07?utm_source=n8n_n8n_nodes_langchain_mcpclient&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=D7378",
+    "url_return": "https://skiplagged.com/flights/FUE/ARN/2026-09-13?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=LS3130-W61608-W61731",
+    "raw": {
+      "rt_total_mode": "sum_oneways",
+      "price_outbound_min": 96.0,
+      "price_return_min": 129.0
+    }
+  },
+  {
+    "origin": "ARN",
+    "dest": "SVQ",
+    "departure_date": "2026-09-05",
+    "return_date": "2026-09-13",
+    "price": 225.0,
+    "price_outbound": 121.0,
+    "price_return": 104.0,
+    "duration": "Outbound: 11h 40m<br/>Return: 8h 40m",
+    "stops": "Outbound: 1 stop / Return: 1 stop",
+    "url_outbound": "https://skiplagged.com/flights/ARN/SVQ/2026-09-05?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=KL1226-KL2544",
+    "url_return": "https://skiplagged.com/flights/SVQ/ARN/2026-09-13?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=IB1752-IB827",
+    "raw": {
+      "rt_total_mode": "sum_oneways",
+      "price_outbound_min": 121.0,
+      "price_return_min": 104.0
+    }
+  },
+  {
+    "origin": "ARN",
+    "dest": "RAK",
+    "departure_date": "2026-09-05",
+    "return_date": "2026-09-13",
+    "price": 229.0,
+    "price_outbound": 77.0,
+    "price_return": 152.0,
+    "duration": "Outbound: 5h 10m<br/>Return: 36h 25m",
+    "stops": "Outbound: Nonstop / Return: 2 stops",
+    "url_outbound": "https://skiplagged.com/flights/ARN/RAK/2026-09-05?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=D84527",
+    "url_return": "https://skiplagged.com/flights/RAK/ARN/2026-09-13?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=FR6731-FR4461-D85050",
+    "raw": {
+      "rt_total_mode": "sum_oneways",
+      "price_outbound_min": 77.0,
+      "price_return_min": 152.0
+    }
+  },
+  {
+    "origin": "ARN",
+    "dest": "RAK",
+    "departure_date": "2026-09-08",
+    "return_date": "2026-09-13",
+    "price": 229.0,
+    "price_outbound": 77.0,
+    "price_return": 152.0,
+    "duration": "Outbound: 5h 10m<br/>Return: 36h 25m",
+    "stops": "Outbound: Nonstop / Return: 2 stops",
+    "url_outbound": "https://skiplagged.com/flights/ARN/RAK/2026-09-08?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=D84527",
+    "url_return": "https://skiplagged.com/flights/RAK/ARN/2026-09-13?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=FR6731-FR4461-D85050",
+    "raw": {
+      "rt_total_mode": "sum_oneways",
+      "price_outbound_min": 77.0,
+      "price_return_min": 152.0
+    }
+  },
+  {
+    "origin": "ARN",
+    "dest": "FUE",
+    "departure_date": "2026-09-07",
+    "return_date": "2026-09-12",
+    "price": 232.0,
+    "price_outbound": 96.0,
+    "price_return": 136.0,
+    "duration": "Outbound: 2h 40m<br/>Return: 27h 45m",
+    "stops": "Outbound: Nonstop / Return: 2 stops",
+    "url_outbound": "https://skiplagged.com/flights/TPE/KIX/2026-11-07?utm_source=n8n_n8n_nodes_langchain_mcpclient&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=D7378",
+    "url_return": "https://skiplagged.com/flights/ARN/FUE/2026-09-05?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=W61732-W61705-VY3016",
+    "raw": {
+      "rt_total_mode": "sum_oneways",
+      "price_outbound_min": 96.0,
+      "price_return_min": 136.0
+    }
+  },
+  {
+    "origin": "ARN",
+    "dest": "BIO",
+    "departure_date": "2026-09-05",
+    "return_date": "2026-09-13",
+    "price": 233.0,
+    "price_outbound": 131.0,
+    "price_return": 102.0,
+    "duration": "Outbound: 20h 10m<br/>Return: 26h 35m",
+    "stops": "Outbound: 1 stop / Return: 2 stops",
+    "url_outbound": "https://skiplagged.com/flights/ARN/BIO/2026-09-05?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=FR1945-W61455",
+    "url_return": "https://skiplagged.com/flights/BIO/ARN/2026-09-13?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=W46412-W42334-W62403",
+    "raw": {
+      "rt_total_mode": "sum_oneways",
+      "price_outbound_min": 131.0,
+      "price_return_min": 102.0
+    }
+  },
+  {
+    "origin": "ARN",
+    "dest": "TUN",
+    "departure_date": "2026-09-05",
+    "return_date": "2026-09-12",
+    "price": 234.0,
+    "price_outbound": 144.0,
+    "price_return": 90.0,
+    "duration": "Outbound: 23h<br/>Return: 3h 20m",
+    "stops": "Outbound: 2 stops / Return: Nonstop",
+    "url_outbound": "https://skiplagged.com/flights/ARN/TUN/2026-09-05?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=FR4605-FR9293-BJ635",
+    "url_return": "https://skiplagged.com/flights/KIX/TPE/2026-11-11?utm_source=n8n_n8n_nodes_langchain_mcpclient&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=GK55",
+    "raw": {
+      "rt_total_mode": "sum_oneways",
+      "price_outbound_min": 144.0,
+      "price_return_min": 90.0
+    }
+  },
+  {
+    "origin": "ARN",
+    "dest": "LPA",
+    "departure_date": "2026-09-05",
+    "return_date": "2026-09-15",
+    "price": 236.0,
+    "price_outbound": 166.0,
+    "price_return": 70.0,
+    "duration": "Outbound: 31h 15m<br/>Return: 13h",
+    "stops": "Outbound: 2 stops / Return: 1 stop",
+    "url_outbound": "https://skiplagged.com/flights/ARN/LPA/2026-09-05?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=FR9166-VY3134-PM628",
+    "url_return": "https://skiplagged.com/flights/LPA/ARN/2026-09-15?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=VY3007-VY1265",
+    "raw": {
+      "rt_total_mode": "sum_oneways",
+      "price_outbound_min": 166.0,
+      "price_return_min": 70.0
+    }
+  },
+  {
+    "origin": "ARN",
+    "dest": "RAK",
+    "departure_date": "2026-09-06",
+    "return_date": "2026-09-13",
+    "price": 238.0,
+    "price_outbound": 86.0,
+    "price_return": 152.0,
+    "duration": "Outbound: 24h 45m<br/>Return: 36h 25m",
+    "stops": "Outbound: 2 stops / Return: 2 stops",
+    "url_outbound": "https://skiplagged.com/flights/ARN/RAK/2026-09-06?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=W61732-W61713-W46489",
+    "url_return": "https://skiplagged.com/flights/RAK/ARN/2026-09-13?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=FR6731-FR4461-D85050",
+    "raw": {
+      "rt_total_mode": "sum_oneways",
+      "price_outbound_min": 86.0,
+      "price_return_min": 152.0
+    }
+  },
+  {
+    "origin": "ARN",
+    "dest": "LPA",
+    "departure_date": "2026-09-06",
+    "return_date": "2026-09-14",
+    "price": 243.0,
+    "price_outbound": 137.0,
+    "price_return": 106.0,
+    "duration": "Outbound: 8h 20m<br/>Return: 25h 10m",
+    "stops": "Outbound: 1 stop / Return: 1 stop",
+    "url_outbound": "https://skiplagged.com/flights/ARN/LPA/2026-09-06?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=IB828-IB1633",
+    "url_return": "https://skiplagged.com/flights/LPA/ARN/2026-09-14?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=VY3069-D85050",
+    "raw": {
+      "rt_total_mode": "sum_oneways",
+      "price_outbound_min": 137.0,
+      "price_return_min": 106.0
+    }
+  },
+  {
+    "origin": "ARN",
+    "dest": "LPA",
+    "departure_date": "2026-09-07",
+    "return_date": "2026-09-14",
+    "price": 243.0,
+    "price_outbound": 137.0,
+    "price_return": 106.0,
+    "duration": "Outbound: 57h 45m<br/>Return: 25h 10m",
+    "stops": "Outbound: 2 stops / Return: 1 stop",
+    "url_outbound": "https://skiplagged.com/flights/ARN/LPA/2026-09-07?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=W62404-W62459-FR1447",
+    "url_return": "https://skiplagged.com/flights/LPA/ARN/2026-09-14?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=VY3069-D85050",
+    "raw": {
+      "rt_total_mode": "sum_oneways",
+      "price_outbound_min": 137.0,
+      "price_return_min": 106.0
+    }
+  },
+  {
+    "origin": "ARN",
+    "dest": "LPA",
+    "departure_date": "2026-09-08",
+    "return_date": "2026-09-14",
+    "price": 243.0,
+    "price_outbound": 137.0,
+    "price_return": 106.0,
+    "duration": "Outbound: 18h 40m<br/>Return: 25h 10m",
+    "stops": "Outbound: 1 stop / Return: 1 stop",
+    "url_outbound": "https://skiplagged.com/flights/ARN/LPA/2026-09-08?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=IB828-IB1605",
+    "url_return": "https://skiplagged.com/flights/LPA/ARN/2026-09-14?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=VY3069-D85050",
+    "raw": {
+      "rt_total_mode": "sum_oneways",
+      "price_outbound_min": 137.0,
+      "price_return_min": 106.0
+    }
+  },
+  {
+    "origin": "ARN",
+    "dest": "ACE",
+    "departure_date": "2026-09-06",
+    "return_date": "2026-09-12",
+    "price": 244.0,
+    "price_outbound": 124.0,
+    "price_return": 120.0,
+    "duration": "Outbound: 41h 35m<br/>Return: 32h 25m",
+    "stops": "Outbound: 2 stops / Return: 2 stops",
+    "url_outbound": "https://skiplagged.com/flights/ARN/ACE/2026-09-06?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=D85601-VY3919-VY2472",
+    "url_return": "https://skiplagged.com/flights/ACE/ARN/2026-09-12?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=U28124-W61608-W61731",
+    "raw": {
+      "rt_total_mode": "sum_oneways",
+      "price_outbound_min": 124.0,
+      "price_return_min": 120.0
+    }
+  },
+  {
+    "origin": "ARN",
+    "dest": "TUN",
+    "departure_date": "2026-09-06",
+    "return_date": "2026-09-12",
+    "price": 249.0,
+    "price_outbound": 159.0,
+    "price_return": 90.0,
+    "duration": "Outbound: 17h 30m<br/>Return: 3h 20m",
+    "stops": "Outbound: 1 stop / Return: Nonstop",
+    "url_outbound": "https://skiplagged.com/flights/ARN/TUN/2026-09-06?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=LH811-LH1326",
+    "url_return": "https://skiplagged.com/flights/KIX/TPE/2026-11-11?utm_source=n8n_n8n_nodes_langchain_mcpclient&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=GK55",
+    "raw": {
+      "rt_total_mode": "sum_oneways",
+      "price_outbound_min": 159.0,
+      "price_return_min": 90.0
+    }
+  },
+  {
+    "origin": "ARN",
+    "dest": "RAK",
+    "departure_date": "2026-09-07",
+    "return_date": "2026-09-13",
+    "price": 250.0,
+    "price_outbound": 98.0,
+    "price_return": 152.0,
+    "duration": "Outbound: 31h 15m<br/>Return: 36h 25m",
+    "stops": "Outbound: 1 stop / Return: 2 stops",
+    "url_outbound": "https://skiplagged.com/flights/ARN/RAK/2026-09-07?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=W62404-W62459",
+    "url_return": "https://skiplagged.com/flights/RAK/ARN/2026-09-13?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=FR6731-FR4461-D85050",
+    "raw": {
+      "rt_total_mode": "sum_oneways",
+      "price_outbound_min": 98.0,
+      "price_return_min": 152.0
+    }
+  },
+  {
+    "origin": "ARN",
+    "dest": "ACE",
+    "departure_date": "2026-09-07",
+    "return_date": "2026-09-12",
+    "price": 251.0,
+    "price_outbound": 131.0,
+    "price_return": 120.0,
+    "duration": "Outbound: 17h 35m<br/>Return: 32h 25m",
+    "stops": "Outbound: 2 stops / Return: 2 stops",
+    "url_outbound": "https://skiplagged.com/flights/ARN/ACE/2026-09-07?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=D85601-VY3905-VY2472",
+    "url_return": "https://skiplagged.com/flights/ACE/ARN/2026-09-12?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=U28124-W61608-W61731",
+    "raw": {
+      "rt_total_mode": "sum_oneways",
+      "price_outbound_min": 131.0,
+      "price_return_min": 120.0
+    }
+  },
+  {
+    "origin": "ARN",
+    "dest": "TUN",
+    "departure_date": "2026-09-08",
+    "return_date": "2026-09-12",
+    "price": 251.0,
+    "price_outbound": 161.0,
+    "price_return": 90.0,
+    "duration": "Outbound: 14h 5m<br/>Return: 3h 20m",
+    "stops": "Outbound: 1 stop / Return: Nonstop",
+    "url_outbound": "https://skiplagged.com/flights/ARN/TUN/2026-09-08?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=VL801-LH1326",
+    "url_return": "https://skiplagged.com/flights/KIX/TPE/2026-11-11?utm_source=n8n_n8n_nodes_langchain_mcpclient&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=GK55",
+    "raw": {
+      "rt_total_mode": "sum_oneways",
+      "price_outbound_min": 161.0,
+      "price_return_min": 90.0
+    }
+  },
+  {
+    "origin": "ARN",
+    "dest": "FUE",
+    "departure_date": "2026-09-07",
+    "return_date": "2026-09-13",
+    "price": 258.0,
+    "price_outbound": 96.0,
+    "price_return": 162.0,
+    "duration": "Outbound: 2h 40m<br/>Return: 31h 50m",
+    "stops": "Outbound: Nonstop / Return: 2 stops",
+    "url_outbound": "https://skiplagged.com/flights/TPE/KIX/2026-11-07?utm_source=n8n_n8n_nodes_langchain_mcpclient&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=D7378",
+    "url_return": "https://skiplagged.com/flights/FUE/ARN/2026-09-12?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=LS3826-W61608-W61731",
+    "raw": {
+      "rt_total_mode": "sum_oneways",
+      "price_outbound_min": 96.0,
+      "price_return_min": 162.0
+    }
+  },
+  {
+    "origin": "ARN",
+    "dest": "ALG",
+    "departure_date": "2026-09-06",
+    "return_date": "2026-09-14",
+    "price": 258.0,
+    "price_outbound": 121.0,
+    "price_return": 137.0,
+    "duration": "Outbound: 49h 45m<br/>Return: 17h 45m",
+    "stops": "Outbound: 2 stops / Return: 1 stop",
+    "url_outbound": "https://skiplagged.com/flights/ARN/ALG/2026-09-06?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=D85601-VY3919-VY6152",
+    "url_return": "https://skiplagged.com/flights/ALG/ARN/2026-09-14?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=VY3751-D85350",
+    "raw": {
+      "rt_total_mode": "sum_oneways",
+      "price_outbound_min": 121.0,
+      "price_return_min": 137.0
+    }
+  },
+  {
+    "origin": "ARN",
+    "dest": "ALG",
+    "departure_date": "2026-09-07",
+    "return_date": "2026-09-14",
+    "price": 258.0,
+    "price_outbound": 121.0,
+    "price_return": 137.0,
+    "duration": "Outbound: 37h 15m<br/>Return: 17h 45m",
+    "stops": "Outbound: 2 stops / Return: 1 stop",
+    "url_outbound": "https://skiplagged.com/flights/ARN/ALG/2026-09-07?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=D85601-VY3923-VY6154",
+    "url_return": "https://skiplagged.com/flights/ALG/ARN/2026-09-14?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=VY3751-D85350",
+    "raw": {
+      "rt_total_mode": "sum_oneways",
+      "price_outbound_min": 121.0,
+      "price_return_min": 137.0
+    }
+  },
+  {
+    "origin": "ARN",
+    "dest": "ALG",
+    "departure_date": "2026-09-08",
+    "return_date": "2026-09-14",
+    "price": 258.0,
+    "price_outbound": 121.0,
+    "price_return": 137.0,
+    "duration": "Outbound: 25h 25m<br/>Return: 17h 45m",
+    "stops": "Outbound: 2 stops / Return: 1 stop",
+    "url_outbound": "https://skiplagged.com/flights/ARN/ALG/2026-09-08?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=W61732-W61705-VY6154",
+    "url_return": "https://skiplagged.com/flights/ALG/ARN/2026-09-14?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=VY3751-D85350",
+    "raw": {
+      "rt_total_mode": "sum_oneways",
+      "price_outbound_min": 121.0,
+      "price_return_min": 137.0
+    }
+  },
+  {
+    "origin": "ARN",
+    "dest": "BIO",
+    "departure_date": "2026-09-08",
+    "return_date": "2026-09-12",
+    "price": 260.0,
+    "price_outbound": 89.0,
+    "price_return": 171.0,
+    "duration": "Outbound: 10h 5m<br/>Return: 11h 45m",
+    "stops": "Outbound: 1 stop / Return: 1 stop",
+    "url_outbound": "https://skiplagged.com/flights/ARN/BIO/2026-09-08?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=D84455-W95363",
+    "url_return": "https://skiplagged.com/flights/BIO/ARN/2026-09-12?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=LH1147-LH806",
+    "raw": {
+      "rt_total_mode": "sum_oneways",
+      "price_outbound_min": 89.0,
+      "price_return_min": 171.0
+    }
+  },
+  {
+    "origin": "ARN",
+    "dest": "TFS",
+    "departure_date": "2026-09-07",
+    "return_date": "2026-09-13",
+    "price": 262.0,
+    "price_outbound": 134.0,
+    "price_return": 128.0,
+    "duration": "Outbound: 28h 25m<br/>Return: 25h 10m",
+    "stops": "Outbound: 1 stop / Return: 1 stop",
+    "url_outbound": "https://skiplagged.com/flights/ARN/TFS/2026-09-07?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=D84459-U28035",
+    "url_return": "https://skiplagged.com/flights/TFS/ARN/2026-09-13?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=FR827-FR9796",
+    "raw": {
+      "rt_total_mode": "sum_oneways",
+      "price_outbound_min": 134.0,
+      "price_return_min": 128.0
+    }
+  },
+  {
+    "origin": "ARN",
+    "dest": "TFS",
+    "departure_date": "2026-09-08",
+    "return_date": "2026-09-13",
+    "price": 262.0,
+    "price_outbound": 134.0,
+    "price_return": 128.0,
+    "duration": "Outbound: 11h<br/>Return: 25h 10m",
+    "stops": "Outbound: 1 stop / Return: 1 stop",
+    "url_outbound": "https://skiplagged.com/flights/ARN/TFS/2026-09-08?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=D84455-U28035",
+    "url_return": "https://skiplagged.com/flights/TFS/ARN/2026-09-13?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=FR827-FR9796",
+    "raw": {
+      "rt_total_mode": "sum_oneways",
+      "price_outbound_min": 134.0,
+      "price_return_min": 128.0
+    }
+  },
+  {
+    "origin": "ARN",
+    "dest": "ACE",
+    "departure_date": "2026-09-06",
+    "return_date": "2026-09-15",
+    "price": 263.0,
+    "price_outbound": 124.0,
+    "price_return": 139.0,
+    "duration": "Outbound: 41h 35m<br/>Return: 16h 10m",
+    "stops": "Outbound: 2 stops / Return: 1 stop",
+    "url_outbound": "https://skiplagged.com/flights/ARN/ACE/2026-09-06?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=D85601-VY3919-VY2472",
+    "url_return": "https://skiplagged.com/flights/ACE/ARN/2026-09-15?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=VY2471-VY1265",
+    "raw": {
+      "rt_total_mode": "sum_oneways",
+      "price_outbound_min": 124.0,
+      "price_return_min": 139.0
+    }
+  },
+  {
+    "origin": "ARN",
+    "dest": "ALG",
+    "departure_date": "2026-09-05",
+    "return_date": "2026-09-14",
+    "price": 263.0,
+    "price_outbound": 126.0,
+    "price_return": 137.0,
+    "duration": "Outbound: 7h 30m<br/>Return: 17h 45m",
+    "stops": "Outbound: 1 stop / Return: 1 stop",
+    "url_outbound": "https://skiplagged.com/flights/ARN/TUN/2026-09-07?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=D84377-TU757",
+    "url_return": "https://skiplagged.com/flights/ALG/ARN/2026-09-14?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=VY3751-D85350",
+    "raw": {
+      "rt_total_mode": "sum_oneways",
+      "price_outbound_min": 126.0,
+      "price_return_min": 137.0
+    }
+  },
+  {
+    "origin": "ARN",
+    "dest": "TFS",
+    "departure_date": "2026-09-06",
+    "return_date": "2026-09-13",
+    "price": 265.0,
+    "price_outbound": 137.0,
+    "price_return": 128.0,
+    "duration": "Outbound: 8h 30m<br/>Return: 25h 10m",
+    "stops": "Outbound: 1 stop / Return: 1 stop",
+    "url_outbound": "https://skiplagged.com/flights/ARN/TFS/2026-09-06?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=IB828-IB1555",
+    "url_return": "https://skiplagged.com/flights/TFS/ARN/2026-09-13?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=FR827-FR9796",
+    "raw": {
+      "rt_total_mode": "sum_oneways",
+      "price_outbound_min": 137.0,
+      "price_return_min": 128.0
+    }
+  },
+  {
+    "origin": "ARN",
+    "dest": "ALG",
+    "departure_date": "2026-09-06",
+    "return_date": "2026-09-13",
+    "price": 265.0,
+    "price_outbound": 121.0,
+    "price_return": 144.0,
+    "duration": "Outbound: 49h 45m<br/>Return: 22h 25m",
+    "stops": "Outbound: 2 stops / Return: 1 stop",
+    "url_outbound": "https://skiplagged.com/flights/ARN/ALG/2026-09-06?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=D85601-VY3919-VY6152",
+    "url_return": "https://skiplagged.com/flights/ALG/ARN/2026-09-13?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=VF274-VF265",
+    "raw": {
+      "rt_total_mode": "sum_oneways",
+      "price_outbound_min": 121.0,
+      "price_return_min": 144.0
+    }
+  },
+  {
+    "origin": "ARN",
+    "dest": "ALG",
+    "departure_date": "2026-09-07",
+    "return_date": "2026-09-13",
+    "price": 265.0,
+    "price_outbound": 121.0,
+    "price_return": 144.0,
+    "duration": "Outbound: 37h 15m<br/>Return: 22h 25m",
+    "stops": "Outbound: 2 stops / Return: 1 stop",
+    "url_outbound": "https://skiplagged.com/flights/ARN/ALG/2026-09-07?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=D85601-VY3923-VY6154",
+    "url_return": "https://skiplagged.com/flights/ALG/ARN/2026-09-13?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=VF274-VF265",
+    "raw": {
+      "rt_total_mode": "sum_oneways",
+      "price_outbound_min": 121.0,
+      "price_return_min": 144.0
+    }
+  },
+  {
+    "origin": "ARN",
+    "dest": "ALG",
+    "departure_date": "2026-09-08",
+    "return_date": "2026-09-13",
+    "price": 265.0,
+    "price_outbound": 121.0,
+    "price_return": 144.0,
+    "duration": "Outbound: 25h 25m<br/>Return: 22h 25m",
+    "stops": "Outbound: 2 stops / Return: 1 stop",
+    "url_outbound": "https://skiplagged.com/flights/ARN/ALG/2026-09-08?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=W61732-W61705-VY6154",
+    "url_return": "https://skiplagged.com/flights/ALG/ARN/2026-09-13?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=VF274-VF265",
+    "raw": {
+      "rt_total_mode": "sum_oneways",
+      "price_outbound_min": 121.0,
+      "price_return_min": 144.0
+    }
+  },
+  {
+    "origin": "ARN",
+    "dest": "TFS",
+    "departure_date": "2026-09-07",
+    "return_date": "2026-09-15",
+    "price": 266.0,
+    "price_outbound": 134.0,
+    "price_return": 132.0,
+    "duration": "Outbound: 28h 25m<br/>Return: 42h 25m",
+    "stops": "Outbound: 1 stop / Return: 2 stops",
+    "url_outbound": "https://skiplagged.com/flights/ARN/TFS/2026-09-07?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=D84459-U28035",
+    "url_return": "https://skiplagged.com/flights/TFS/ARN/2026-09-15?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=U23730-W61954-D84556",
+    "raw": {
+      "rt_total_mode": "sum_oneways",
+      "price_outbound_min": 134.0,
+      "price_return_min": 132.0
+    }
+  },
+  {
+    "origin": "ARN",
+    "dest": "TFS",
+    "departure_date": "2026-09-08",
+    "return_date": "2026-09-15",
+    "price": 266.0,
+    "price_outbound": 134.0,
+    "price_return": 132.0,
+    "duration": "Outbound: 11h<br/>Return: 42h 25m",
+    "stops": "Outbound: 1 stop / Return: 2 stops",
+    "url_outbound": "https://skiplagged.com/flights/ARN/TFS/2026-09-08?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=D84455-U28035",
+    "url_return": "https://skiplagged.com/flights/TFS/ARN/2026-09-15?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=U23730-W61954-D84556",
+    "raw": {
+      "rt_total_mode": "sum_oneways",
+      "price_outbound_min": 134.0,
+      "price_return_min": 132.0
+    }
+  },
+  {
+    "origin": "ARN",
+    "dest": "BIO",
+    "departure_date": "2026-09-07",
+    "return_date": "2026-09-12",
+    "price": 266.0,
+    "price_outbound": 95.0,
+    "price_return": 171.0,
+    "duration": "Outbound: 12h 20m<br/>Return: 11h 45m",
+    "stops": "Outbound: 1 stop / Return: 1 stop",
+    "url_outbound": "https://skiplagged.com/flights/ARN/BIO/2026-09-07?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=D85601-VY3937",
+    "url_return": "https://skiplagged.com/flights/BIO/ARN/2026-09-12?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=LH1147-LH806",
+    "raw": {
+      "rt_total_mode": "sum_oneways",
+      "price_outbound_min": 95.0,
+      "price_return_min": 171.0
+    }
+  },
+  {
+    "origin": "ARN",
+    "dest": "TFS",
+    "departure_date": "2026-09-05",
+    "return_date": "2026-09-13",
+    "price": 267.0,
+    "price_outbound": 139.0,
+    "price_return": 128.0,
+    "duration": "Outbound: 25h 45m<br/>Return: 25h 10m",
+    "stops": "Outbound: 1 stop / Return: 1 stop",
+    "url_outbound": "https://skiplagged.com/flights/ARN/TFS/2026-09-05?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=FR9166-VY3134",
+    "url_return": "https://skiplagged.com/flights/TFS/ARN/2026-09-13?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=FR827-FR9796",
+    "raw": {
+      "rt_total_mode": "sum_oneways",
+      "price_outbound_min": 139.0,
+      "price_return_min": 128.0
+    }
+  },
+  {
+    "origin": "ARN",
+    "dest": "LPA",
+    "departure_date": "2026-09-06",
+    "return_date": "2026-09-13",
+    "price": 268.0,
+    "price_outbound": 137.0,
+    "price_return": 131.0,
+    "duration": "Outbound: 8h 20m<br/>Return: 10h 25m",
+    "stops": "Outbound: 1 stop / Return: 1 stop",
+    "url_outbound": "https://skiplagged.com/flights/ARN/LPA/2026-09-06?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=IB828-IB1633",
+    "url_return": "https://skiplagged.com/flights/LPA/ARN/2026-09-13?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=IB1630-IB827",
+    "raw": {
+      "rt_total_mode": "sum_oneways",
+      "price_outbound_min": 137.0,
+      "price_return_min": 131.0
+    }
+  },
+  {
+    "origin": "ARN",
+    "dest": "LPA",
+    "departure_date": "2026-09-07",
+    "return_date": "2026-09-13",
+    "price": 268.0,
+    "price_outbound": 137.0,
+    "price_return": 131.0,
+    "duration": "Outbound: 57h 45m<br/>Return: 10h 25m",
+    "stops": "Outbound: 2 stops / Return: 1 stop",
+    "url_outbound": "https://skiplagged.com/flights/ARN/LPA/2026-09-07?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=W62404-W62459-FR1447",
+    "url_return": "https://skiplagged.com/flights/LPA/ARN/2026-09-13?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=IB1630-IB827",
+    "raw": {
+      "rt_total_mode": "sum_oneways",
+      "price_outbound_min": 137.0,
+      "price_return_min": 131.0
+    }
+  },
+  {
+    "origin": "ARN",
+    "dest": "LPA",
+    "departure_date": "2026-09-08",
+    "return_date": "2026-09-13",
+    "price": 268.0,
+    "price_outbound": 137.0,
+    "price_return": 131.0,
+    "duration": "Outbound: 18h 40m<br/>Return: 10h 25m",
+    "stops": "Outbound: 1 stop / Return: 1 stop",
+    "url_outbound": "https://skiplagged.com/flights/ARN/LPA/2026-09-08?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=IB828-IB1605",
+    "url_return": "https://skiplagged.com/flights/LPA/ARN/2026-09-13?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=IB1630-IB827",
+    "raw": {
+      "rt_total_mode": "sum_oneways",
+      "price_outbound_min": 137.0,
+      "price_return_min": 131.0
+    }
+  },
+  {
+    "origin": "ARN",
+    "dest": "TFS",
+    "departure_date": "2026-09-06",
+    "return_date": "2026-09-15",
+    "price": 269.0,
+    "price_outbound": 137.0,
+    "price_return": 132.0,
+    "duration": "Outbound: 8h 30m<br/>Return: 42h 25m",
+    "stops": "Outbound: 1 stop / Return: 2 stops",
+    "url_outbound": "https://skiplagged.com/flights/ARN/TFS/2026-09-06?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=IB828-IB1555",
+    "url_return": "https://skiplagged.com/flights/TFS/ARN/2026-09-15?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=U23730-W61954-D84556",
+    "raw": {
+      "rt_total_mode": "sum_oneways",
+      "price_outbound_min": 137.0,
+      "price_return_min": 132.0
+    }
+  },
+  {
+    "origin": "ARN",
+    "dest": "ACE",
+    "departure_date": "2026-09-07",
+    "return_date": "2026-09-15",
+    "price": 270.0,
+    "price_outbound": 131.0,
+    "price_return": 139.0,
+    "duration": "Outbound: 17h 35m<br/>Return: 16h 10m",
+    "stops": "Outbound: 2 stops / Return: 1 stop",
+    "url_outbound": "https://skiplagged.com/flights/ARN/ACE/2026-09-07?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=D85601-VY3905-VY2472",
+    "url_return": "https://skiplagged.com/flights/ACE/ARN/2026-09-15?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=VY2471-VY1265",
+    "raw": {
+      "rt_total_mode": "sum_oneways",
+      "price_outbound_min": 131.0,
+      "price_return_min": 139.0
+    }
+  },
+  {
+    "origin": "ARN",
+    "dest": "ALG",
+    "departure_date": "2026-09-05",
+    "return_date": "2026-09-13",
+    "price": 270.0,
+    "price_outbound": 126.0,
+    "price_return": 144.0,
+    "duration": "Outbound: 7h 30m<br/>Return: 22h 25m",
+    "stops": "Outbound: 1 stop / Return: 1 stop",
+    "url_outbound": "https://skiplagged.com/flights/ARN/TUN/2026-09-07?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=D84377-TU757",
+    "url_return": "https://skiplagged.com/flights/ALG/ARN/2026-09-13?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=VF274-VF265",
+    "raw": {
+      "rt_total_mode": "sum_oneways",
+      "price_outbound_min": 126.0,
+      "price_return_min": 144.0
+    }
+  },
+  {
+    "origin": "ARN",
+    "dest": "TFS",
+    "departure_date": "2026-09-05",
+    "return_date": "2026-09-15",
+    "price": 271.0,
+    "price_outbound": 139.0,
+    "price_return": 132.0,
+    "duration": "Outbound: 25h 45m<br/>Return: 42h 25m",
+    "stops": "Outbound: 1 stop / Return: 2 stops",
+    "url_outbound": "https://skiplagged.com/flights/ARN/TFS/2026-09-05?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=FR9166-VY3134",
+    "url_return": "https://skiplagged.com/flights/TFS/ARN/2026-09-15?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=U23730-W61954-D84556",
+    "raw": {
+      "rt_total_mode": "sum_oneways",
+      "price_outbound_min": 139.0,
+      "price_return_min": 132.0
+    }
+  },
+  {
+    "origin": "ARN",
+    "dest": "TFS",
+    "departure_date": "2026-09-07",
+    "return_date": "2026-09-14",
+    "price": 271.0,
+    "price_outbound": 134.0,
+    "price_return": 137.0,
+    "duration": "Outbound: 28h 25m<br/>Return: 24h 25m",
+    "stops": "Outbound: 1 stop / Return: 2 stops",
+    "url_outbound": "https://skiplagged.com/flights/ARN/TFS/2026-09-07?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=D84459-U28035",
+    "url_return": "https://skiplagged.com/flights/TFS/ARN/2026-09-14?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=FR579-W61608-W61731",
+    "raw": {
+      "rt_total_mode": "sum_oneways",
+      "price_outbound_min": 134.0,
+      "price_return_min": 137.0
+    }
+  },
+  {
+    "origin": "ARN",
+    "dest": "TFS",
+    "departure_date": "2026-09-08",
+    "return_date": "2026-09-14",
+    "price": 271.0,
+    "price_outbound": 134.0,
+    "price_return": 137.0,
+    "duration": "Outbound: 11h<br/>Return: 24h 25m",
+    "stops": "Outbound: 1 stop / Return: 2 stops",
+    "url_outbound": "https://skiplagged.com/flights/ARN/TFS/2026-09-08?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=D84455-U28035",
+    "url_return": "https://skiplagged.com/flights/TFS/ARN/2026-09-14?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=FR579-W61608-W61731",
+    "raw": {
+      "rt_total_mode": "sum_oneways",
+      "price_outbound_min": 134.0,
+      "price_return_min": 137.0
+    }
+  },
+  {
+    "origin": "ARN",
+    "dest": "LPA",
+    "departure_date": "2026-09-05",
+    "return_date": "2026-09-14",
+    "price": 272.0,
+    "price_outbound": 166.0,
+    "price_return": 106.0,
+    "duration": "Outbound: 31h 15m<br/>Return: 25h 10m",
+    "stops": "Outbound: 2 stops / Return: 1 stop",
+    "url_outbound": "https://skiplagged.com/flights/ARN/LPA/2026-09-05?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=FR9166-VY3134-PM628",
+    "url_return": "https://skiplagged.com/flights/LPA/ARN/2026-09-14?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=VY3069-D85050",
+    "raw": {
+      "rt_total_mode": "sum_oneways",
+      "price_outbound_min": 166.0,
+      "price_return_min": 106.0
+    }
+  },
+  {
+    "origin": "ARN",
+    "dest": "TFS",
+    "departure_date": "2026-09-06",
+    "return_date": "2026-09-14",
+    "price": 274.0,
+    "price_outbound": 137.0,
+    "price_return": 137.0,
+    "duration": "Outbound: 8h 30m<br/>Return: 24h 25m",
+    "stops": "Outbound: 1 stop / Return: 2 stops",
+    "url_outbound": "https://skiplagged.com/flights/ARN/TFS/2026-09-06?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=IB828-IB1555",
+    "url_return": "https://skiplagged.com/flights/TFS/ARN/2026-09-14?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=FR579-W61608-W61731",
+    "raw": {
+      "rt_total_mode": "sum_oneways",
+      "price_outbound_min": 137.0,
+      "price_return_min": 137.0
+    }
+  },
+  {
+    "origin": "ARN",
+    "dest": "ACE",
+    "departure_date": "2026-09-06",
+    "return_date": "2026-09-13",
+    "price": 274.0,
+    "price_outbound": 124.0,
+    "price_return": 150.0,
+    "duration": "Outbound: 41h 35m<br/>Return: 47h",
+    "stops": "Outbound: 2 stops / Return: 2 stops",
+    "url_outbound": "https://skiplagged.com/flights/ARN/ACE/2026-09-06?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=D85601-VY3919-VY2472",
+    "url_return": "https://skiplagged.com/flights/ACE/ARN/2026-09-13?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=FR251-FR533-W61731",
+    "raw": {
+      "rt_total_mode": "sum_oneways",
+      "price_outbound_min": 124.0,
+      "price_return_min": 150.0
+    }
+  },
+  {
+    "origin": "ARN",
+    "dest": "TFS",
+    "departure_date": "2026-09-07",
+    "return_date": "2026-09-12",
+    "price": 275.0,
+    "price_outbound": 134.0,
+    "price_return": 141.0,
+    "duration": "Outbound: 28h 25m<br/>Return: 10h 25m",
+    "stops": "Outbound: 1 stop / Return: 1 stop",
+    "url_outbound": "https://skiplagged.com/flights/ARN/TFS/2026-09-07?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=D84459-U28035",
+    "url_return": "https://skiplagged.com/flights/TFS/ARN/2026-09-12?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=I21556-IB823",
+    "raw": {
+      "rt_total_mode": "sum_oneways",
+      "price_outbound_min": 134.0,
+      "price_return_min": 141.0
+    }
+  },
+  {
+    "origin": "ARN",
+    "dest": "TFS",
+    "departure_date": "2026-09-08",
+    "return_date": "2026-09-12",
+    "price": 275.0,
+    "price_outbound": 134.0,
+    "price_return": 141.0,
+    "duration": "Outbound: 11h<br/>Return: 10h 25m",
+    "stops": "Outbound: 1 stop / Return: 1 stop",
+    "url_outbound": "https://skiplagged.com/flights/ARN/TFS/2026-09-08?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=D84455-U28035",
+    "url_return": "https://skiplagged.com/flights/TFS/ARN/2026-09-12?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=I21556-IB823",
+    "raw": {
+      "rt_total_mode": "sum_oneways",
+      "price_outbound_min": 134.0,
+      "price_return_min": 141.0
+    }
+  },
+  {
+    "origin": "ARN",
+    "dest": "TFS",
+    "departure_date": "2026-09-05",
+    "return_date": "2026-09-14",
+    "price": 276.0,
+    "price_outbound": 139.0,
+    "price_return": 137.0,
+    "duration": "Outbound: 25h 45m<br/>Return: 24h 25m",
+    "stops": "Outbound: 1 stop / Return: 2 stops",
+    "url_outbound": "https://skiplagged.com/flights/ARN/TFS/2026-09-05?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=FR9166-VY3134",
+    "url_return": "https://skiplagged.com/flights/TFS/ARN/2026-09-14?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=FR579-W61608-W61731",
+    "raw": {
+      "rt_total_mode": "sum_oneways",
+      "price_outbound_min": 139.0,
+      "price_return_min": 137.0
+    }
+  },
+  {
+    "origin": "ARN",
+    "dest": "LPA",
+    "departure_date": "2026-09-06",
+    "return_date": "2026-09-12",
+    "price": 276.0,
+    "price_outbound": 137.0,
+    "price_return": 139.0,
+    "duration": "Outbound: 8h 20m<br/>Return: 9h 40m",
+    "stops": "Outbound: 1 stop / Return: 1 stop",
+    "url_outbound": "https://skiplagged.com/flights/ARN/LPA/2026-09-06?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=IB828-IB1633",
+    "url_return": "https://skiplagged.com/flights/LPA/ARN/2026-09-12?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=VY3069-FR4687",
+    "raw": {
+      "rt_total_mode": "sum_oneways",
+      "price_outbound_min": 137.0,
+      "price_return_min": 139.0
+    }
+  },
+  {
+    "origin": "ARN",
+    "dest": "LPA",
+    "departure_date": "2026-09-07",
+    "return_date": "2026-09-12",
+    "price": 276.0,
+    "price_outbound": 137.0,
+    "price_return": 139.0,
+    "duration": "Outbound: 57h 45m<br/>Return: 9h 40m",
+    "stops": "Outbound: 2 stops / Return: 1 stop",
+    "url_outbound": "https://skiplagged.com/flights/ARN/LPA/2026-09-07?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=W62404-W62459-FR1447",
+    "url_return": "https://skiplagged.com/flights/LPA/ARN/2026-09-12?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=VY3069-FR4687",
+    "raw": {
+      "rt_total_mode": "sum_oneways",
+      "price_outbound_min": 137.0,
+      "price_return_min": 139.0
+    }
+  },
+  {
+    "origin": "ARN",
+    "dest": "LPA",
+    "departure_date": "2026-09-08",
+    "return_date": "2026-09-12",
+    "price": 276.0,
+    "price_outbound": 137.0,
+    "price_return": 139.0,
+    "duration": "Outbound: 18h 40m<br/>Return: 9h 40m",
+    "stops": "Outbound: 1 stop / Return: 1 stop",
+    "url_outbound": "https://skiplagged.com/flights/ARN/LPA/2026-09-08?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=IB828-IB1605",
+    "url_return": "https://skiplagged.com/flights/LPA/ARN/2026-09-12?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=VY3069-FR4687",
+    "raw": {
+      "rt_total_mode": "sum_oneways",
+      "price_outbound_min": 137.0,
+      "price_return_min": 139.0
+    }
+  },
+  {
+    "origin": "ARN",
+    "dest": "TFS",
+    "departure_date": "2026-09-06",
+    "return_date": "2026-09-12",
+    "price": 278.0,
+    "price_outbound": 137.0,
+    "price_return": 141.0,
+    "duration": "Outbound: 8h 30m<br/>Return: 10h 25m",
+    "stops": "Outbound: 1 stop / Return: 1 stop",
+    "url_outbound": "https://skiplagged.com/flights/ARN/TFS/2026-09-06?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=IB828-IB1555",
+    "url_return": "https://skiplagged.com/flights/TFS/ARN/2026-09-12?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=I21556-IB823",
+    "raw": {
+      "rt_total_mode": "sum_oneways",
+      "price_outbound_min": 137.0,
+      "price_return_min": 141.0
+    }
+  },
+  {
+    "origin": "ARN",
+    "dest": "TUN",
+    "departure_date": "2026-09-06",
+    "return_date": "2026-09-14",
+    "price": 279.0,
+    "price_outbound": 159.0,
+    "price_return": 120.0,
+    "duration": "Outbound: 17h 30m<br/>Return: 27h 50m",
+    "stops": "Outbound: 1 stop / Return: 1 stop",
+    "url_outbound": "https://skiplagged.com/flights/ARN/TUN/2026-09-06?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=LH811-LH1326",
+    "url_return": "https://skiplagged.com/flights/TUN/ARN/2026-09-14?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=BJ516-FR8737",
+    "raw": {
+      "rt_total_mode": "sum_oneways",
+      "price_outbound_min": 159.0,
+      "price_return_min": 120.0
+    }
+  },
+  {
+    "origin": "ARN",
+    "dest": "TFS",
+    "departure_date": "2026-09-05",
+    "return_date": "2026-09-12",
+    "price": 280.0,
+    "price_outbound": 139.0,
+    "price_return": 141.0,
+    "duration": "Outbound: 25h 45m<br/>Return: 10h 25m",
+    "stops": "Outbound: 1 stop / Return: 1 stop",
+    "url_outbound": "https://skiplagged.com/flights/ARN/TFS/2026-09-05?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=FR9166-VY3134",
+    "url_return": "https://skiplagged.com/flights/TFS/ARN/2026-09-12?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=I21556-IB823",
+    "raw": {
+      "rt_total_mode": "sum_oneways",
+      "price_outbound_min": 139.0,
+      "price_return_min": 141.0
+    }
+  },
+  {
+    "origin": "ARN",
+    "dest": "ACE",
+    "departure_date": "2026-09-07",
+    "return_date": "2026-09-13",
+    "price": 281.0,
+    "price_outbound": 131.0,
+    "price_return": 150.0,
+    "duration": "Outbound: 17h 35m<br/>Return: 47h",
+    "stops": "Outbound: 2 stops / Return: 2 stops",
+    "url_outbound": "https://skiplagged.com/flights/ARN/ACE/2026-09-07?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=D85601-VY3905-VY2472",
+    "url_return": "https://skiplagged.com/flights/ACE/ARN/2026-09-13?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=FR251-FR533-W61731",
+    "raw": {
+      "rt_total_mode": "sum_oneways",
+      "price_outbound_min": 131.0,
+      "price_return_min": 150.0
+    }
+  },
+  {
+    "origin": "ARN",
+    "dest": "TUN",
+    "departure_date": "2026-09-08",
+    "return_date": "2026-09-14",
+    "price": 281.0,
+    "price_outbound": 161.0,
+    "price_return": 120.0,
+    "duration": "Outbound: 14h 5m<br/>Return: 27h 50m",
+    "stops": "Outbound: 1 stop / Return: 1 stop",
+    "url_outbound": "https://skiplagged.com/flights/ARN/TUN/2026-09-08?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=VL801-LH1326",
+    "url_return": "https://skiplagged.com/flights/TUN/ARN/2026-09-14?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=BJ516-FR8737",
+    "raw": {
+      "rt_total_mode": "sum_oneways",
+      "price_outbound_min": 161.0,
+      "price_return_min": 120.0
+    }
+  },
+  {
+    "origin": "ARN",
+    "dest": "BIO",
+    "departure_date": "2026-09-06",
+    "return_date": "2026-09-15",
+    "price": 285.0,
+    "price_outbound": 221.0,
+    "price_return": 64.0,
+    "duration": "Outbound: 12h 45m<br/>Return: 20h 25m",
+    "stops": "Outbound: 1 stop / Return: 1 stop",
+    "url_outbound": "https://skiplagged.com/flights/ARN/BIO/2026-09-06?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=VL801-LH1146",
+    "url_return": "https://skiplagged.com/flights/BIO/ARN/2026-09-15?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=VY1425-VY1265",
+    "raw": {
+      "rt_total_mode": "sum_oneways",
+      "price_outbound_min": 221.0,
+      "price_return_min": 64.0
+    }
+  },
+  {
+    "origin": "ARN",
+    "dest": "SVQ",
+    "departure_date": "2026-09-07",
+    "return_date": "2026-09-14",
+    "price": 291.0,
+    "price_outbound": 97.0,
+    "price_return": 194.0,
+    "duration": "Outbound: 25h 20m<br/>Return: 6h 50m",
+    "stops": "Outbound: 2 stops / Return: 1 stop",
+    "url_outbound": "https://skiplagged.com/flights/ARN/SVQ/2026-09-07?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=W61732-W61713-W46309",
+    "url_return": "https://skiplagged.com/flights/SVQ/ARN/2026-09-14?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=TP1107-TP780",
+    "raw": {
+      "rt_total_mode": "sum_oneways",
+      "price_outbound_min": 97.0,
+      "price_return_min": 194.0
+    }
+  },
+  {
+    "origin": "ARN",
+    "dest": "LPA",
+    "departure_date": "2026-09-05",
+    "return_date": "2026-09-13",
+    "price": 297.0,
+    "price_outbound": 166.0,
+    "price_return": 131.0,
+    "duration": "Outbound: 31h 15m<br/>Return: 10h 25m",
+    "stops": "Outbound: 2 stops / Return: 1 stop",
+    "url_outbound": "https://skiplagged.com/flights/ARN/LPA/2026-09-05?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=FR9166-VY3134-PM628",
+    "url_return": "https://skiplagged.com/flights/LPA/ARN/2026-09-13?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=IB1630-IB827",
+    "raw": {
+      "rt_total_mode": "sum_oneways",
+      "price_outbound_min": 166.0,
+      "price_return_min": 131.0
+    }
+  },
+  {
+    "origin": "ARN",
+    "dest": "BIO",
+    "departure_date": "2026-09-06",
+    "return_date": "2026-09-14",
+    "price": 301.0,
+    "price_outbound": 221.0,
+    "price_return": 80.0,
+    "duration": "Outbound: 12h 45m<br/>Return: 35h 5m",
+    "stops": "Outbound: 1 stop / Return: 2 stops",
+    "url_outbound": "https://skiplagged.com/flights/ARN/BIO/2026-09-06?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=VL801-LH1146",
+    "url_return": "https://skiplagged.com/flights/BIO/ARN/2026-09-14?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=VY3932-VY3905-VY1265",
+    "raw": {
+      "rt_total_mode": "sum_oneways",
+      "price_outbound_min": 221.0,
+      "price_return_min": 80.0
+    }
+  },
+  {
+    "origin": "ARN",
+    "dest": "BIO",
+    "departure_date": "2026-09-05",
+    "return_date": "2026-09-12",
+    "price": 302.0,
+    "price_outbound": 131.0,
+    "price_return": 171.0,
+    "duration": "Outbound: 20h 10m<br/>Return: 11h 45m",
+    "stops": "Outbound: 1 stop / Return: 1 stop",
+    "url_outbound": "https://skiplagged.com/flights/ARN/BIO/2026-09-05?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=FR1945-W61455",
+    "url_return": "https://skiplagged.com/flights/BIO/ARN/2026-09-12?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=LH1147-LH806",
+    "raw": {
+      "rt_total_mode": "sum_oneways",
+      "price_outbound_min": 131.0,
+      "price_return_min": 171.0
+    }
+  },
+  {
+    "origin": "ARN",
+    "dest": "SVQ",
+    "departure_date": "2026-09-08",
+    "return_date": "2026-09-14",
+    "price": 303.0,
+    "price_outbound": 109.0,
+    "price_return": 194.0,
+    "duration": "Outbound: 14h<br/>Return: 6h 50m",
+    "stops": "Outbound: 1 stop / Return: 1 stop",
+    "url_outbound": "https://skiplagged.com/flights/ARN/SVQ/2026-09-08?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=IB828-IB605",
+    "url_return": "https://skiplagged.com/flights/SVQ/ARN/2026-09-14?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=TP1107-TP780",
+    "raw": {
+      "rt_total_mode": "sum_oneways",
+      "price_outbound_min": 109.0,
+      "price_return_min": 194.0
+    }
+  },
+  {
+    "origin": "ARN",
+    "dest": "LPA",
+    "departure_date": "2026-09-05",
+    "return_date": "2026-09-12",
+    "price": 305.0,
+    "price_outbound": 166.0,
+    "price_return": 139.0,
+    "duration": "Outbound: 31h 15m<br/>Return: 9h 40m",
+    "stops": "Outbound: 2 stops / Return: 1 stop",
+    "url_outbound": "https://skiplagged.com/flights/ARN/LPA/2026-09-05?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=FR9166-VY3134-PM628",
+    "url_return": "https://skiplagged.com/flights/LPA/ARN/2026-09-12?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=VY3069-FR4687",
+    "raw": {
+      "rt_total_mode": "sum_oneways",
+      "price_outbound_min": 166.0,
+      "price_return_min": 139.0
+    }
+  },
+  {
+    "origin": "ARN",
+    "dest": "CAI",
+    "departure_date": "2026-09-07",
+    "return_date": "2026-09-15",
+    "price": 314.0,
+    "price_outbound": 164.0,
+    "price_return": 150.0,
+    "duration": "Outbound: 29h 25m<br/>Return: 35h 35m",
+    "stops": "Outbound: 1 stop / Return: 2 stops",
+    "url_outbound": "https://skiplagged.com/flights/ARN/CAI/2026-09-07?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=VF266-E5988",
+    "url_return": "https://skiplagged.com/flights/CAI/ARN/2026-09-15?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=A3931-A3878-W62403",
+    "raw": {
+      "rt_total_mode": "sum_oneways",
+      "price_outbound_min": 164.0,
+      "price_return_min": 150.0
+    }
+  },
+  {
+    "origin": "ARN",
+    "dest": "SVQ",
+    "departure_date": "2026-09-05",
+    "return_date": "2026-09-14",
+    "price": 315.0,
+    "price_outbound": 121.0,
+    "price_return": 194.0,
+    "duration": "Outbound: 11h 40m<br/>Return: 6h 50m",
+    "stops": "Outbound: 1 stop / Return: 1 stop",
+    "url_outbound": "https://skiplagged.com/flights/ARN/SVQ/2026-09-05?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=KL1226-KL2544",
+    "url_return": "https://skiplagged.com/flights/SVQ/ARN/2026-09-14?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=TP1107-TP780",
+    "raw": {
+      "rt_total_mode": "sum_oneways",
+      "price_outbound_min": 121.0,
+      "price_return_min": 194.0
+    }
+  },
+  {
+    "origin": "ARN",
+    "dest": "CAI",
+    "departure_date": "2026-09-06",
+    "return_date": "2026-09-15",
+    "price": 316.0,
+    "price_outbound": 166.0,
+    "price_return": 150.0,
+    "duration": "Outbound: 13h<br/>Return: 35h 35m",
+    "stops": "Outbound: 1 stop / Return: 2 stops",
+    "url_outbound": "https://skiplagged.com/flights/ARN/CAI/2026-09-06?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=A3761-A3930",
+    "url_return": "https://skiplagged.com/flights/CAI/ARN/2026-09-15?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=A3931-A3878-W62403",
+    "raw": {
+      "rt_total_mode": "sum_oneways",
+      "price_outbound_min": 166.0,
+      "price_return_min": 150.0
+    }
+  },
+  {
+    "origin": "ARN",
+    "dest": "CAI",
+    "departure_date": "2026-09-08",
+    "return_date": "2026-09-15",
+    "price": 316.0,
+    "price_outbound": 166.0,
+    "price_return": 150.0,
+    "duration": "Outbound: 13h<br/>Return: 35h 35m",
+    "stops": "Outbound: 1 stop / Return: 2 stops",
+    "url_outbound": "https://skiplagged.com/flights/ARN/CAI/2026-09-08?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=A3761-A3930",
+    "url_return": "https://skiplagged.com/flights/CAI/ARN/2026-09-15?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=A3931-A3878-W62403",
+    "raw": {
+      "rt_total_mode": "sum_oneways",
+      "price_outbound_min": 166.0,
+      "price_return_min": 150.0
+    }
+  },
+  {
+    "origin": "ARN",
+    "dest": "TUN",
+    "departure_date": "2026-09-07",
+    "return_date": "2026-09-15",
+    "price": 316.0,
+    "price_outbound": 87.0,
+    "price_return": 229.0,
+    "duration": "Outbound: 3h 45m<br/>Return: 8h 20m",
+    "stops": "Outbound: Nonstop / Return: 1 stop",
+    "url_outbound": "https://skiplagged.com/flights/TPE/BKK/2026-05-06?utm_source=n8n_n8n_nodes_langchain_mcpclient&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=VZ571",
+    "url_return": "https://skiplagged.com/flights/TUN/ARN/2026-09-15?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=EW9899-EW4673",
+    "raw": {
+      "rt_total_mode": "sum_oneways",
+      "price_outbound_min": 87.0,
+      "price_return_min": 229.0
+    }
+  },
+  {
+    "origin": "ARN",
+    "dest": "BIO",
+    "departure_date": "2026-09-06",
+    "return_date": "2026-09-13",
+    "price": 323.0,
+    "price_outbound": 221.0,
+    "price_return": 102.0,
+    "duration": "Outbound: 12h 45m<br/>Return: 26h 35m",
+    "stops": "Outbound: 1 stop / Return: 2 stops",
+    "url_outbound": "https://skiplagged.com/flights/ARN/BIO/2026-09-06?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=VL801-LH1146",
+    "url_return": "https://skiplagged.com/flights/BIO/ARN/2026-09-13?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=W46412-W42334-W62403",
+    "raw": {
+      "rt_total_mode": "sum_oneways",
+      "price_outbound_min": 221.0,
+      "price_return_min": 102.0
+    }
+  },
+  {
+    "origin": "ARN",
+    "dest": "CAI",
+    "departure_date": "2026-09-07",
+    "return_date": "2026-09-12",
+    "price": 324.0,
+    "price_outbound": 164.0,
+    "price_return": 160.0,
+    "duration": "Outbound: 29h 25m<br/>Return: 8h",
+    "stops": "Outbound: 1 stop / Return: 1 stop",
+    "url_outbound": "https://skiplagged.com/flights/ARN/CAI/2026-09-07?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=VF266-E5988",
+    "url_return": "https://skiplagged.com/flights/CAI/ARN/2026-09-12?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=VF248-VF265",
+    "raw": {
+      "rt_total_mode": "sum_oneways",
+      "price_outbound_min": 164.0,
+      "price_return_min": 160.0
+    }
+  },
+  {
+    "origin": "ARN",
+    "dest": "CAI",
+    "departure_date": "2026-09-07",
+    "return_date": "2026-09-13",
+    "price": 324.0,
+    "price_outbound": 164.0,
+    "price_return": 160.0,
+    "duration": "Outbound: 29h 25m<br/>Return: 32h 35m",
+    "stops": "Outbound: 1 stop / Return: 2 stops",
+    "url_outbound": "https://skiplagged.com/flights/ARN/CAI/2026-09-07?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=VF266-E5988",
+    "url_return": "https://skiplagged.com/flights/CAI/ARN/2026-09-13?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=A3931-A3878-W62403",
+    "raw": {
+      "rt_total_mode": "sum_oneways",
+      "price_outbound_min": 164.0,
+      "price_return_min": 160.0
+    }
+  },
+  {
+    "origin": "ARN",
+    "dest": "TUN",
+    "departure_date": "2026-09-07",
+    "return_date": "2026-09-13",
+    "price": 324.0,
+    "price_outbound": 87.0,
+    "price_return": 237.0,
+    "duration": "Outbound: 3h 45m<br/>Return: 12h 5m",
+    "stops": "Outbound: Nonstop / Return: 2 stops",
+    "url_outbound": "https://skiplagged.com/flights/TPE/BKK/2026-05-06?utm_source=n8n_n8n_nodes_langchain_mcpclient&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=VZ571",
+    "url_return": "https://skiplagged.com/flights/TUN/ARN/2026-09-12?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=AZ861-LH233-LH806",
+    "raw": {
+      "rt_total_mode": "sum_oneways",
+      "price_outbound_min": 87.0,
+      "price_return_min": 237.0
+    }
+  },
+  {
+    "origin": "ARN",
+    "dest": "CAI",
+    "departure_date": "2026-09-06",
+    "return_date": "2026-09-12",
+    "price": 326.0,
+    "price_outbound": 166.0,
+    "price_return": 160.0,
+    "duration": "Outbound: 13h<br/>Return: 8h",
+    "stops": "Outbound: 1 stop / Return: 1 stop",
+    "url_outbound": "https://skiplagged.com/flights/ARN/CAI/2026-09-06?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=A3761-A3930",
+    "url_return": "https://skiplagged.com/flights/CAI/ARN/2026-09-12?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=VF248-VF265",
+    "raw": {
+      "rt_total_mode": "sum_oneways",
+      "price_outbound_min": 166.0,
+      "price_return_min": 160.0
+    }
+  },
+  {
+    "origin": "ARN",
+    "dest": "CAI",
+    "departure_date": "2026-09-06",
+    "return_date": "2026-09-13",
+    "price": 326.0,
+    "price_outbound": 166.0,
+    "price_return": 160.0,
+    "duration": "Outbound: 13h<br/>Return: 32h 35m",
+    "stops": "Outbound: 1 stop / Return: 2 stops",
+    "url_outbound": "https://skiplagged.com/flights/ARN/CAI/2026-09-06?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=A3761-A3930",
+    "url_return": "https://skiplagged.com/flights/CAI/ARN/2026-09-13?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=A3931-A3878-W62403",
+    "raw": {
+      "rt_total_mode": "sum_oneways",
+      "price_outbound_min": 166.0,
+      "price_return_min": 160.0
+    }
+  },
+  {
+    "origin": "ARN",
+    "dest": "CAI",
+    "departure_date": "2026-09-08",
+    "return_date": "2026-09-12",
+    "price": 326.0,
+    "price_outbound": 166.0,
+    "price_return": 160.0,
+    "duration": "Outbound: 13h<br/>Return: 8h",
+    "stops": "Outbound: 1 stop / Return: 1 stop",
+    "url_outbound": "https://skiplagged.com/flights/ARN/CAI/2026-09-08?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=A3761-A3930",
+    "url_return": "https://skiplagged.com/flights/CAI/ARN/2026-09-12?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=VF248-VF265",
+    "raw": {
+      "rt_total_mode": "sum_oneways",
+      "price_outbound_min": 166.0,
+      "price_return_min": 160.0
+    }
+  },
+  {
+    "origin": "ARN",
+    "dest": "CAI",
+    "departure_date": "2026-09-08",
+    "return_date": "2026-09-13",
+    "price": 326.0,
+    "price_outbound": 166.0,
+    "price_return": 160.0,
+    "duration": "Outbound: 13h<br/>Return: 32h 35m",
+    "stops": "Outbound: 1 stop / Return: 2 stops",
+    "url_outbound": "https://skiplagged.com/flights/ARN/CAI/2026-09-08?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=A3761-A3930",
+    "url_return": "https://skiplagged.com/flights/CAI/ARN/2026-09-13?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=A3931-A3878-W62403",
+    "raw": {
+      "rt_total_mode": "sum_oneways",
+      "price_outbound_min": 166.0,
+      "price_return_min": 160.0
+    }
+  },
+  {
+    "origin": "ARN",
+    "dest": "CAI",
+    "departure_date": "2026-09-05",
+    "return_date": "2026-09-15",
+    "price": 331.0,
+    "price_outbound": 181.0,
+    "price_return": 150.0,
+    "duration": "Outbound: 41h 20m<br/>Return: 35h 35m",
+    "stops": "Outbound: 2 stops / Return: 2 stops",
+    "url_outbound": "https://skiplagged.com/flights/ARN/CAI/2026-09-05?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=FR7600-W62441-A3930",
+    "url_return": "https://skiplagged.com/flights/CAI/ARN/2026-09-15?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=A3931-A3878-W62403",
+    "raw": {
+      "rt_total_mode": "sum_oneways",
+      "price_outbound_min": 181.0,
+      "price_return_min": 150.0
+    }
+  },
+  {
+    "origin": "ARN",
+    "dest": "CAI",
+    "departure_date": "2026-09-07",
+    "return_date": "2026-09-14",
+    "price": 337.0,
+    "price_outbound": 164.0,
+    "price_return": 173.0,
+    "duration": "Outbound: 29h 25m<br/>Return: 33h 45m",
+    "stops": "Outbound: 1 stop / Return: 2 stops",
+    "url_outbound": "https://skiplagged.com/flights/ARN/CAI/2026-09-07?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=VF266-E5988",
+    "url_return": "https://skiplagged.com/flights/CAI/ARN/2026-09-14?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=A3933-A3878-FR7599",
+    "raw": {
+      "rt_total_mode": "sum_oneways",
+      "price_outbound_min": 164.0,
+      "price_return_min": 173.0
+    }
+  },
+  {
+    "origin": "ARN",
+    "dest": "CAI",
+    "departure_date": "2026-09-06",
+    "return_date": "2026-09-14",
+    "price": 339.0,
+    "price_outbound": 166.0,
+    "price_return": 173.0,
+    "duration": "Outbound: 13h<br/>Return: 33h 45m",
+    "stops": "Outbound: 1 stop / Return: 2 stops",
+    "url_outbound": "https://skiplagged.com/flights/ARN/CAI/2026-09-06?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=A3761-A3930",
+    "url_return": "https://skiplagged.com/flights/CAI/ARN/2026-09-14?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=A3933-A3878-FR7599",
+    "raw": {
+      "rt_total_mode": "sum_oneways",
+      "price_outbound_min": 166.0,
+      "price_return_min": 173.0
+    }
+  },
+  {
+    "origin": "ARN",
+    "dest": "CAI",
+    "departure_date": "2026-09-08",
+    "return_date": "2026-09-14",
+    "price": 339.0,
+    "price_outbound": 166.0,
+    "price_return": 173.0,
+    "duration": "Outbound: 13h<br/>Return: 33h 45m",
+    "stops": "Outbound: 1 stop / Return: 2 stops",
+    "url_outbound": "https://skiplagged.com/flights/ARN/CAI/2026-09-08?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=A3761-A3930",
+    "url_return": "https://skiplagged.com/flights/CAI/ARN/2026-09-14?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=A3933-A3878-FR7599",
+    "raw": {
+      "rt_total_mode": "sum_oneways",
+      "price_outbound_min": 166.0,
+      "price_return_min": 173.0
+    }
+  },
+  {
+    "origin": "ARN",
+    "dest": "CAI",
+    "departure_date": "2026-09-05",
+    "return_date": "2026-09-12",
+    "price": 341.0,
+    "price_outbound": 181.0,
+    "price_return": 160.0,
+    "duration": "Outbound: 41h 20m<br/>Return: 8h",
+    "stops": "Outbound: 2 stops / Return: 1 stop",
+    "url_outbound": "https://skiplagged.com/flights/ARN/CAI/2026-09-05?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=FR7600-W62441-A3930",
+    "url_return": "https://skiplagged.com/flights/CAI/ARN/2026-09-12?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=VF248-VF265",
+    "raw": {
+      "rt_total_mode": "sum_oneways",
+      "price_outbound_min": 181.0,
+      "price_return_min": 160.0
+    }
+  },
+  {
+    "origin": "ARN",
+    "dest": "CAI",
+    "departure_date": "2026-09-05",
+    "return_date": "2026-09-13",
+    "price": 341.0,
+    "price_outbound": 181.0,
+    "price_return": 160.0,
+    "duration": "Outbound: 41h 20m<br/>Return: 32h 35m",
+    "stops": "Outbound: 2 stops / Return: 2 stops",
+    "url_outbound": "https://skiplagged.com/flights/ARN/CAI/2026-09-05?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=FR7600-W62441-A3930",
+    "url_return": "https://skiplagged.com/flights/CAI/ARN/2026-09-13?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=A3931-A3878-W62403",
+    "raw": {
+      "rt_total_mode": "sum_oneways",
+      "price_outbound_min": 181.0,
+      "price_return_min": 160.0
+    }
+  },
+  {
+    "origin": "ARN",
+    "dest": "CAI",
+    "departure_date": "2026-09-05",
+    "return_date": "2026-09-14",
+    "price": 354.0,
+    "price_outbound": 181.0,
+    "price_return": 173.0,
+    "duration": "Outbound: 41h 20m<br/>Return: 33h 45m",
+    "stops": "Outbound: 2 stops / Return: 2 stops",
+    "url_outbound": "https://skiplagged.com/flights/ARN/CAI/2026-09-05?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=FR7600-W62441-A3930",
+    "url_return": "https://skiplagged.com/flights/CAI/ARN/2026-09-14?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=A3933-A3878-FR7599",
+    "raw": {
+      "rt_total_mode": "sum_oneways",
+      "price_outbound_min": 181.0,
+      "price_return_min": 173.0
+    }
+  },
+  {
+    "origin": "ARN",
+    "dest": "CMN",
+    "departure_date": "2026-09-06",
+    "return_date": "2026-09-14",
+    "price": 358.0,
+    "price_outbound": 137.0,
+    "price_return": 221.0,
+    "duration": "Outbound: 35h 15m<br/>Return: 16h 30m",
+    "stops": "Outbound: 2 stops / Return: 1 stop",
+    "url_outbound": "https://skiplagged.com/flights/ARN/CMN/2026-09-06?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=SK525-W95355-IB1357",
+    "url_return": "https://skiplagged.com/flights/CMN/ARN/2026-09-14?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=AF1197-AF1262",
+    "raw": {
+      "rt_total_mode": "sum_oneways",
+      "price_outbound_min": 137.0,
+      "price_return_min": 221.0
+    }
+  },
+  {
+    "origin": "ARN",
+    "dest": "CMN",
+    "departure_date": "2026-09-07",
+    "return_date": "2026-09-14",
+    "price": 361.0,
+    "price_outbound": 140.0,
+    "price_return": 221.0,
+    "duration": "Outbound: 16h<br/>Return: 16h 30m",
+    "stops": "Outbound: 1 stop / Return: 1 stop",
+    "url_outbound": "https://skiplagged.com/flights/ARN/CMN/2026-09-07?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=AF1063-AF1896",
+    "url_return": "https://skiplagged.com/flights/CMN/ARN/2026-09-14?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=AF1197-AF1262",
+    "raw": {
+      "rt_total_mode": "sum_oneways",
+      "price_outbound_min": 140.0,
+      "price_return_min": 221.0
+    }
+  },
+  {
+    "origin": "ARN",
+    "dest": "CMN",
+    "departure_date": "2026-09-08",
+    "return_date": "2026-09-14",
+    "price": 361.0,
+    "price_outbound": 140.0,
+    "price_return": 221.0,
+    "duration": "Outbound: 16h<br/>Return: 16h 30m",
+    "stops": "Outbound: 1 stop / Return: 1 stop",
+    "url_outbound": "https://skiplagged.com/flights/ARN/CMN/2026-09-08?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=AF1063-AF1896",
+    "url_return": "https://skiplagged.com/flights/CMN/ARN/2026-09-14?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=AF1197-AF1262",
+    "raw": {
+      "rt_total_mode": "sum_oneways",
+      "price_outbound_min": 140.0,
+      "price_return_min": 221.0
+    }
+  },
+  {
+    "origin": "ARN",
+    "dest": "TUN",
+    "departure_date": "2026-09-05",
+    "return_date": "2026-09-15",
+    "price": 373.0,
+    "price_outbound": 144.0,
+    "price_return": 229.0,
+    "duration": "Outbound: 23h<br/>Return: 8h 20m",
+    "stops": "Outbound: 2 stops / Return: 1 stop",
+    "url_outbound": "https://skiplagged.com/flights/ARN/TUN/2026-09-05?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=FR4605-FR9293-BJ635",
+    "url_return": "https://skiplagged.com/flights/TUN/ARN/2026-09-15?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=EW9899-EW4673",
+    "raw": {
+      "rt_total_mode": "sum_oneways",
+      "price_outbound_min": 144.0,
+      "price_return_min": 229.0
+    }
+  },
+  {
+    "origin": "ARN",
+    "dest": "CMN",
+    "departure_date": "2026-09-05",
+    "return_date": "2026-09-14",
+    "price": 375.0,
+    "price_outbound": 154.0,
+    "price_return": 221.0,
+    "duration": "Outbound: 17h<br/>Return: 16h 30m",
+    "stops": "Outbound: 1 stop / Return: 1 stop",
+    "url_outbound": "https://skiplagged.com/flights/ARN/CMN/2026-09-05?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=AF1063-AF1296",
+    "url_return": "https://skiplagged.com/flights/CMN/ARN/2026-09-14?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=AF1197-AF1262",
+    "raw": {
+      "rt_total_mode": "sum_oneways",
+      "price_outbound_min": 154.0,
+      "price_return_min": 221.0
+    }
+  },
+  {
+    "origin": "ARN",
+    "dest": "TUN",
+    "departure_date": "2026-09-05",
+    "return_date": "2026-09-13",
+    "price": 381.0,
+    "price_outbound": 144.0,
+    "price_return": 237.0,
+    "duration": "Outbound: 23h<br/>Return: 12h 5m",
+    "stops": "Outbound: 2 stops / Return: 2 stops",
+    "url_outbound": "https://skiplagged.com/flights/ARN/TUN/2026-09-05?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=FR4605-FR9293-BJ635",
+    "url_return": "https://skiplagged.com/flights/TUN/ARN/2026-09-12?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=AZ861-LH233-LH806",
+    "raw": {
+      "rt_total_mode": "sum_oneways",
+      "price_outbound_min": 144.0,
+      "price_return_min": 237.0
+    }
+  },
+  {
+    "origin": "ARN",
+    "dest": "TUN",
+    "departure_date": "2026-09-06",
+    "return_date": "2026-09-15",
+    "price": 388.0,
+    "price_outbound": 159.0,
+    "price_return": 229.0,
+    "duration": "Outbound: 17h 30m<br/>Return: 8h 20m",
+    "stops": "Outbound: 1 stop / Return: 1 stop",
+    "url_outbound": "https://skiplagged.com/flights/ARN/TUN/2026-09-06?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=LH811-LH1326",
+    "url_return": "https://skiplagged.com/flights/TUN/ARN/2026-09-15?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=EW9899-EW4673",
+    "raw": {
+      "rt_total_mode": "sum_oneways",
+      "price_outbound_min": 159.0,
+      "price_return_min": 229.0
+    }
+  },
+  {
+    "origin": "ARN",
+    "dest": "CMN",
+    "departure_date": "2026-09-06",
+    "return_date": "2026-09-12",
+    "price": 390.0,
+    "price_outbound": 137.0,
+    "price_return": 253.0,
+    "duration": "Outbound: 35h 15m<br/>Return: 10h 5m",
+    "stops": "Outbound: 2 stops / Return: 1 stop",
+    "url_outbound": "https://skiplagged.com/flights/ARN/CMN/2026-09-06?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=SK525-W95355-IB1357",
+    "url_return": "https://skiplagged.com/flights/CMN/ARN/2026-09-12?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=PC652-PC1279",
+    "raw": {
+      "rt_total_mode": "sum_oneways",
+      "price_outbound_min": 137.0,
+      "price_return_min": 253.0
+    }
+  },
+  {
+    "origin": "ARN",
+    "dest": "TUN",
+    "departure_date": "2026-09-08",
+    "return_date": "2026-09-15",
+    "price": 390.0,
+    "price_outbound": 161.0,
+    "price_return": 229.0,
+    "duration": "Outbound: 14h 5m<br/>Return: 8h 20m",
+    "stops": "Outbound: 1 stop / Return: 1 stop",
+    "url_outbound": "https://skiplagged.com/flights/ARN/TUN/2026-09-08?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=VL801-LH1326",
+    "url_return": "https://skiplagged.com/flights/TUN/ARN/2026-09-15?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=EW9899-EW4673",
+    "raw": {
+      "rt_total_mode": "sum_oneways",
+      "price_outbound_min": 161.0,
+      "price_return_min": 229.0
+    }
+  },
+  {
+    "origin": "ARN",
+    "dest": "BIO",
+    "departure_date": "2026-09-06",
+    "return_date": "2026-09-12",
+    "price": 392.0,
+    "price_outbound": 221.0,
+    "price_return": 171.0,
+    "duration": "Outbound: 12h 45m<br/>Return: 11h 45m",
+    "stops": "Outbound: 1 stop / Return: 1 stop",
+    "url_outbound": "https://skiplagged.com/flights/ARN/BIO/2026-09-06?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=VL801-LH1146",
+    "url_return": "https://skiplagged.com/flights/BIO/ARN/2026-09-12?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=LH1147-LH806",
+    "raw": {
+      "rt_total_mode": "sum_oneways",
+      "price_outbound_min": 221.0,
+      "price_return_min": 171.0
+    }
+  },
+  {
+    "origin": "ARN",
+    "dest": "CMN",
+    "departure_date": "2026-09-07",
+    "return_date": "2026-09-12",
+    "price": 393.0,
+    "price_outbound": 140.0,
+    "price_return": 253.0,
+    "duration": "Outbound: 16h<br/>Return: 10h 5m",
+    "stops": "Outbound: 1 stop / Return: 1 stop",
+    "url_outbound": "https://skiplagged.com/flights/ARN/CMN/2026-09-07?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=AF1063-AF1896",
+    "url_return": "https://skiplagged.com/flights/CMN/ARN/2026-09-12?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=PC652-PC1279",
+    "raw": {
+      "rt_total_mode": "sum_oneways",
+      "price_outbound_min": 140.0,
+      "price_return_min": 253.0
+    }
+  },
+  {
+    "origin": "ARN",
+    "dest": "CMN",
+    "departure_date": "2026-09-08",
+    "return_date": "2026-09-12",
+    "price": 393.0,
+    "price_outbound": 140.0,
+    "price_return": 253.0,
+    "duration": "Outbound: 16h<br/>Return: 10h 5m",
+    "stops": "Outbound: 1 stop / Return: 1 stop",
+    "url_outbound": "https://skiplagged.com/flights/ARN/CMN/2026-09-08?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=AF1063-AF1896",
+    "url_return": "https://skiplagged.com/flights/CMN/ARN/2026-09-12?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=PC652-PC1279",
+    "raw": {
+      "rt_total_mode": "sum_oneways",
+      "price_outbound_min": 140.0,
+      "price_return_min": 253.0
+    }
+  },
+  {
+    "origin": "ARN",
+    "dest": "TUN",
+    "departure_date": "2026-09-06",
+    "return_date": "2026-09-13",
+    "price": 396.0,
+    "price_outbound": 159.0,
+    "price_return": 237.0,
+    "duration": "Outbound: 17h 30m<br/>Return: 12h 5m",
+    "stops": "Outbound: 1 stop / Return: 2 stops",
+    "url_outbound": "https://skiplagged.com/flights/ARN/TUN/2026-09-06?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=LH811-LH1326",
+    "url_return": "https://skiplagged.com/flights/TUN/ARN/2026-09-12?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=AZ861-LH233-LH806",
+    "raw": {
+      "rt_total_mode": "sum_oneways",
+      "price_outbound_min": 159.0,
+      "price_return_min": 237.0
+    }
+  },
+  {
+    "origin": "ARN",
+    "dest": "CMN",
+    "departure_date": "2026-09-06",
+    "return_date": "2026-09-15",
+    "price": 398.0,
+    "price_outbound": 137.0,
+    "price_return": 261.0,
+    "duration": "Outbound: 35h 15m<br/>Return: 16h 30m",
+    "stops": "Outbound: 2 stops / Return: 1 stop",
+    "url_outbound": "https://skiplagged.com/flights/ARN/CMN/2026-09-06?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=SK525-W95355-IB1357",
+    "url_return": "https://skiplagged.com/flights/CMN/ARN/2026-09-15?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=AF1197-AF1262",
+    "raw": {
+      "rt_total_mode": "sum_oneways",
+      "price_outbound_min": 137.0,
+      "price_return_min": 261.0
+    }
+  },
+  {
+    "origin": "ARN",
+    "dest": "TUN",
+    "departure_date": "2026-09-08",
+    "return_date": "2026-09-13",
+    "price": 398.0,
+    "price_outbound": 161.0,
+    "price_return": 237.0,
+    "duration": "Outbound: 14h 5m<br/>Return: 12h 5m",
+    "stops": "Outbound: 1 stop / Return: 2 stops",
+    "url_outbound": "https://skiplagged.com/flights/ARN/TUN/2026-09-08?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=VL801-LH1326",
+    "url_return": "https://skiplagged.com/flights/TUN/ARN/2026-09-12?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=AZ861-LH233-LH806",
+    "raw": {
+      "rt_total_mode": "sum_oneways",
+      "price_outbound_min": 161.0,
+      "price_return_min": 237.0
+    }
+  },
+  {
+    "origin": "ARN",
+    "dest": "CMN",
+    "departure_date": "2026-09-07",
+    "return_date": "2026-09-15",
+    "price": 401.0,
+    "price_outbound": 140.0,
+    "price_return": 261.0,
+    "duration": "Outbound: 16h<br/>Return: 16h 30m",
+    "stops": "Outbound: 1 stop / Return: 1 stop",
+    "url_outbound": "https://skiplagged.com/flights/ARN/CMN/2026-09-07?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=AF1063-AF1896",
+    "url_return": "https://skiplagged.com/flights/CMN/ARN/2026-09-15?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=AF1197-AF1262",
+    "raw": {
+      "rt_total_mode": "sum_oneways",
+      "price_outbound_min": 140.0,
+      "price_return_min": 261.0
+    }
+  },
+  {
+    "origin": "ARN",
+    "dest": "CMN",
+    "departure_date": "2026-09-08",
+    "return_date": "2026-09-15",
+    "price": 401.0,
+    "price_outbound": 140.0,
+    "price_return": 261.0,
+    "duration": "Outbound: 16h<br/>Return: 16h 30m",
+    "stops": "Outbound: 1 stop / Return: 1 stop",
+    "url_outbound": "https://skiplagged.com/flights/ARN/CMN/2026-09-08?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=AF1063-AF1896",
+    "url_return": "https://skiplagged.com/flights/CMN/ARN/2026-09-15?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=AF1197-AF1262",
+    "raw": {
+      "rt_total_mode": "sum_oneways",
+      "price_outbound_min": 140.0,
+      "price_return_min": 261.0
+    }
+  },
+  {
+    "origin": "ARN",
+    "dest": "CMN",
+    "departure_date": "2026-09-05",
+    "return_date": "2026-09-12",
+    "price": 407.0,
+    "price_outbound": 154.0,
+    "price_return": 253.0,
+    "duration": "Outbound: 17h<br/>Return: 10h 5m",
+    "stops": "Outbound: 1 stop / Return: 1 stop",
+    "url_outbound": "https://skiplagged.com/flights/ARN/CMN/2026-09-05?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=AF1063-AF1296",
+    "url_return": "https://skiplagged.com/flights/CMN/ARN/2026-09-12?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=PC652-PC1279",
+    "raw": {
+      "rt_total_mode": "sum_oneways",
+      "price_outbound_min": 154.0,
+      "price_return_min": 253.0
+    }
+  },
+  {
+    "origin": "ARN",
+    "dest": "CMN",
+    "departure_date": "2026-09-05",
+    "return_date": "2026-09-15",
+    "price": 415.0,
+    "price_outbound": 154.0,
+    "price_return": 261.0,
+    "duration": "Outbound: 17h<br/>Return: 16h 30m",
+    "stops": "Outbound: 1 stop / Return: 1 stop",
+    "url_outbound": "https://skiplagged.com/flights/ARN/CMN/2026-09-05?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=AF1063-AF1296",
+    "url_return": "https://skiplagged.com/flights/CMN/ARN/2026-09-15?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=AF1197-AF1262",
+    "raw": {
+      "rt_total_mode": "sum_oneways",
+      "price_outbound_min": 154.0,
+      "price_return_min": 261.0
+    }
+  },
+  {
+    "origin": "ARN",
+    "dest": "FUE",
+    "departure_date": "2026-09-06",
+    "return_date": "2026-09-15",
+    "price": 421.0,
+    "price_outbound": 322.0,
+    "price_return": 99.0,
+    "duration": "Outbound: 11h 10m<br/>Return: 38h 25m",
+    "stops": "Outbound: 1 stop / Return: 2 stops",
+    "url_outbound": "https://skiplagged.com/flights/ARN/FUE/2026-09-06?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=LH811-4Y300",
+    "url_return": "https://skiplagged.com/flights/FUE/ARN/2026-09-14?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=PM876-VY3003-VY1265",
+    "raw": {
+      "rt_total_mode": "sum_oneways",
+      "price_outbound_min": 322.0,
+      "price_return_min": 99.0
+    }
+  },
+  {
+    "origin": "ARN",
+    "dest": "CMN",
+    "departure_date": "2026-09-06",
+    "return_date": "2026-09-13",
+    "price": 423.0,
+    "price_outbound": 137.0,
+    "price_return": 286.0,
+    "duration": "Outbound: 35h 15m<br/>Return: 14h 25m",
+    "stops": "Outbound: 2 stops / Return: 1 stop",
+    "url_outbound": "https://skiplagged.com/flights/ARN/CMN/2026-09-06?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=SK525-W95355-IB1357",
+    "url_return": "https://skiplagged.com/flights/CMN/ARN/2026-09-13?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=PC652-PC1281",
+    "raw": {
+      "rt_total_mode": "sum_oneways",
+      "price_outbound_min": 137.0,
+      "price_return_min": 286.0
+    }
+  },
+  {
+    "origin": "ARN",
+    "dest": "CMN",
+    "departure_date": "2026-09-07",
+    "return_date": "2026-09-13",
+    "price": 426.0,
+    "price_outbound": 140.0,
+    "price_return": 286.0,
+    "duration": "Outbound: 16h<br/>Return: 14h 25m",
+    "stops": "Outbound: 1 stop / Return: 1 stop",
+    "url_outbound": "https://skiplagged.com/flights/ARN/CMN/2026-09-07?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=AF1063-AF1896",
+    "url_return": "https://skiplagged.com/flights/CMN/ARN/2026-09-13?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=PC652-PC1281",
+    "raw": {
+      "rt_total_mode": "sum_oneways",
+      "price_outbound_min": 140.0,
+      "price_return_min": 286.0
+    }
+  },
+  {
+    "origin": "ARN",
+    "dest": "CMN",
+    "departure_date": "2026-09-08",
+    "return_date": "2026-09-13",
+    "price": 426.0,
+    "price_outbound": 140.0,
+    "price_return": 286.0,
+    "duration": "Outbound: 16h<br/>Return: 14h 25m",
+    "stops": "Outbound: 1 stop / Return: 1 stop",
+    "url_outbound": "https://skiplagged.com/flights/ARN/CMN/2026-09-08?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=AF1063-AF1896",
+    "url_return": "https://skiplagged.com/flights/CMN/ARN/2026-09-13?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=PC652-PC1281",
+    "raw": {
+      "rt_total_mode": "sum_oneways",
+      "price_outbound_min": 140.0,
+      "price_return_min": 286.0
+    }
+  },
+  {
+    "origin": "ARN",
+    "dest": "FUE",
+    "departure_date": "2026-09-05",
+    "return_date": "2026-09-15",
+    "price": 428.0,
+    "price_outbound": 329.0,
+    "price_return": 99.0,
+    "duration": "Outbound: 41h 5m<br/>Return: 38h 25m",
+    "stops": "Outbound: 2 stops / Return: 2 stops",
+    "url_outbound": "https://skiplagged.com/flights/ARN/ADD/2026-09-08?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=PC1280-PC690-ET413",
+    "url_return": "https://skiplagged.com/flights/FUE/ARN/2026-09-14?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=PM876-VY3003-VY1265",
+    "raw": {
+      "rt_total_mode": "sum_oneways",
+      "price_outbound_min": 329.0,
+      "price_return_min": 99.0
+    }
+  },
+  {
+    "origin": "ARN",
+    "dest": "CMN",
+    "departure_date": "2026-09-05",
+    "return_date": "2026-09-13",
+    "price": 440.0,
+    "price_outbound": 154.0,
+    "price_return": 286.0,
+    "duration": "Outbound: 17h<br/>Return: 14h 25m",
+    "stops": "Outbound: 1 stop / Return: 1 stop",
+    "url_outbound": "https://skiplagged.com/flights/ARN/CMN/2026-09-05?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=AF1063-AF1296",
+    "url_return": "https://skiplagged.com/flights/CMN/ARN/2026-09-13?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=PC652-PC1281",
+    "raw": {
+      "rt_total_mode": "sum_oneways",
+      "price_outbound_min": 154.0,
+      "price_return_min": 286.0
+    }
+  },
+  {
+    "origin": "ARN",
+    "dest": "FUE",
+    "departure_date": "2026-09-08",
+    "return_date": "2026-09-15",
+    "price": 444.0,
+    "price_outbound": 345.0,
+    "price_return": 99.0,
+    "duration": "Outbound: 11h 15m<br/>Return: 38h 25m",
+    "stops": "Outbound: 2 stops / Return: 2 stops",
+    "url_outbound": "https://skiplagged.com/flights/ARN/FUE/2026-09-08?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=EW4672-LX1017-WK212",
+    "url_return": "https://skiplagged.com/flights/FUE/ARN/2026-09-14?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=PM876-VY3003-VY1265",
+    "raw": {
+      "rt_total_mode": "sum_oneways",
+      "price_outbound_min": 345.0,
+      "price_return_min": 99.0
+    }
+  },
+  {
+    "origin": "ARN",
+    "dest": "FUE",
+    "departure_date": "2026-09-06",
+    "return_date": "2026-09-14",
+    "price": 451.0,
+    "price_outbound": 322.0,
+    "price_return": 129.0,
+    "duration": "Outbound: 11h 10m<br/>Return: 35h 15m",
+    "stops": "Outbound: 1 stop / Return: 2 stops",
+    "url_outbound": "https://skiplagged.com/flights/ARN/FUE/2026-09-06?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=LH811-4Y300",
+    "url_return": "https://skiplagged.com/flights/FUE/ARN/2026-09-13?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=LS3130-W61608-W61731",
+    "raw": {
+      "rt_total_mode": "sum_oneways",
+      "price_outbound_min": 322.0,
+      "price_return_min": 129.0
+    }
+  },
+  {
+    "origin": "ARN",
+    "dest": "FUE",
+    "departure_date": "2026-09-05",
+    "return_date": "2026-09-14",
+    "price": 458.0,
+    "price_outbound": 329.0,
+    "price_return": 129.0,
+    "duration": "Outbound: 41h 5m<br/>Return: 35h 15m",
+    "stops": "Outbound: 2 stops / Return: 2 stops",
+    "url_outbound": "https://skiplagged.com/flights/ARN/ADD/2026-09-08?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=PC1280-PC690-ET413",
+    "url_return": "https://skiplagged.com/flights/FUE/ARN/2026-09-13?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=LS3130-W61608-W61731",
+    "raw": {
+      "rt_total_mode": "sum_oneways",
+      "price_outbound_min": 329.0,
+      "price_return_min": 129.0
+    }
+  },
+  {
+    "origin": "ARN",
+    "dest": "FUE",
+    "departure_date": "2026-09-06",
+    "return_date": "2026-09-12",
+    "price": 458.0,
+    "price_outbound": 322.0,
+    "price_return": 136.0,
+    "duration": "Outbound: 11h 10m<br/>Return: 27h 45m",
+    "stops": "Outbound: 1 stop / Return: 2 stops",
+    "url_outbound": "https://skiplagged.com/flights/ARN/FUE/2026-09-06?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=LH811-4Y300",
+    "url_return": "https://skiplagged.com/flights/ARN/FUE/2026-09-05?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=W61732-W61705-VY3016",
+    "raw": {
+      "rt_total_mode": "sum_oneways",
+      "price_outbound_min": 322.0,
+      "price_return_min": 136.0
+    }
+  },
+  {
+    "origin": "ARN",
+    "dest": "ACE",
+    "departure_date": "2026-09-05",
+    "return_date": "2026-09-12",
+    "price": 459.0,
+    "price_outbound": 339.0,
+    "price_return": 120.0,
+    "duration": "Outbound: 10h 50m<br/>Return: 32h 25m",
+    "stops": "Outbound: 2 stops / Return: 2 stops",
+    "url_outbound": "https://skiplagged.com/flights/ARN/ACE/2026-09-05?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=LH811-LH100-4Y316",
+    "url_return": "https://skiplagged.com/flights/ACE/ARN/2026-09-12?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=U28124-W61608-W61731",
+    "raw": {
+      "rt_total_mode": "sum_oneways",
+      "price_outbound_min": 339.0,
+      "price_return_min": 120.0
+    }
+  },
+  {
+    "origin": "ARN",
+    "dest": "SVQ",
+    "departure_date": "2026-09-07",
+    "return_date": "2026-09-12",
+    "price": 460.0,
+    "price_outbound": 97.0,
+    "price_return": 363.0,
+    "duration": "Outbound: 25h 20m<br/>Return: 10h 45m",
+    "stops": "Outbound: 2 stops / Return: 1 stop",
+    "url_outbound": "https://skiplagged.com/flights/ARN/SVQ/2026-09-07?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=W61732-W61713-W46309",
+    "url_return": "https://skiplagged.com/flights/SVQ/ARN/2026-09-12?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=VL1823-LH2420",
+    "raw": {
+      "rt_total_mode": "sum_oneways",
+      "price_outbound_min": 97.0,
+      "price_return_min": 363.0
+    }
+  },
+  {
+    "origin": "ARN",
+    "dest": "FUE",
+    "departure_date": "2026-09-05",
+    "return_date": "2026-09-12",
+    "price": 465.0,
+    "price_outbound": 329.0,
+    "price_return": 136.0,
+    "duration": "Outbound: 41h 5m<br/>Return: 27h 45m",
+    "stops": "Outbound: 2 stops / Return: 2 stops",
+    "url_outbound": "https://skiplagged.com/flights/ARN/ADD/2026-09-08?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=PC1280-PC690-ET413",
+    "url_return": "https://skiplagged.com/flights/ARN/FUE/2026-09-05?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=W61732-W61705-VY3016",
+    "raw": {
+      "rt_total_mode": "sum_oneways",
+      "price_outbound_min": 329.0,
+      "price_return_min": 136.0
+    }
+  },
+  {
+    "origin": "ARN",
+    "dest": "ADD",
+    "departure_date": "2026-09-08",
+    "return_date": "2026-09-13",
+    "price": 471.0,
+    "price_outbound": 90.0,
+    "price_return": 381.0,
+    "duration": "Outbound: None<br/>Return: 35h 50m",
+    "stops": "Outbound: None / Return: 2 stops",
+    "url_outbound": null,
+    "url_return": "https://skiplagged.com/flights/ADD/ARN/2026-09-13?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=EY6336-EY79-FR2878",
+    "raw": {
+      "rt_total_mode": "sum_oneways",
+      "price_outbound_min": 90.0,
+      "price_return_min": 381.0
+    }
+  },
+  {
+    "origin": "ARN",
+    "dest": "ADD",
+    "departure_date": "2026-09-08",
+    "return_date": "2026-09-14",
+    "price": 471.0,
+    "price_outbound": 90.0,
+    "price_return": 381.0,
+    "duration": "Outbound: None<br/>Return: 39h 50m",
+    "stops": "Outbound: None / Return: 2 stops",
+    "url_outbound": null,
+    "url_return": "https://skiplagged.com/flights/ADD/ARN/2026-09-14?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=EY6336-EY79-FR2878",
+    "raw": {
+      "rt_total_mode": "sum_oneways",
+      "price_outbound_min": 90.0,
+      "price_return_min": 381.0
+    }
+  },
+  {
+    "origin": "ARN",
+    "dest": "SVQ",
+    "departure_date": "2026-09-08",
+    "return_date": "2026-09-12",
+    "price": 472.0,
+    "price_outbound": 109.0,
+    "price_return": 363.0,
+    "duration": "Outbound: 14h<br/>Return: 10h 45m",
+    "stops": "Outbound: 1 stop / Return: 1 stop",
+    "url_outbound": "https://skiplagged.com/flights/ARN/SVQ/2026-09-08?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=IB828-IB605",
+    "url_return": "https://skiplagged.com/flights/SVQ/ARN/2026-09-12?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=VL1823-LH2420",
+    "raw": {
+      "rt_total_mode": "sum_oneways",
+      "price_outbound_min": 109.0,
+      "price_return_min": 363.0
+    }
+  },
+  {
+    "origin": "ARN",
+    "dest": "ADD",
+    "departure_date": "2026-09-08",
+    "return_date": "2026-09-15",
+    "price": 474.0,
+    "price_outbound": 90.0,
+    "price_return": 384.0,
+    "duration": "Outbound: None<br/>Return: 36h 35m",
+    "stops": "Outbound: None / Return: 2 stops",
+    "url_outbound": null,
+    "url_return": "https://skiplagged.com/flights/ADD/ARN/2026-09-15?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=EY6336-EY79-FR2878",
+    "raw": {
+      "rt_total_mode": "sum_oneways",
+      "price_outbound_min": 90.0,
+      "price_return_min": 384.0
+    }
+  },
+  {
+    "origin": "ARN",
+    "dest": "FUE",
+    "departure_date": "2026-09-08",
+    "return_date": "2026-09-14",
+    "price": 474.0,
+    "price_outbound": 345.0,
+    "price_return": 129.0,
+    "duration": "Outbound: 11h 15m<br/>Return: 35h 15m",
+    "stops": "Outbound: 2 stops / Return: 2 stops",
+    "url_outbound": "https://skiplagged.com/flights/ARN/FUE/2026-09-08?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=EW4672-LX1017-WK212",
+    "url_return": "https://skiplagged.com/flights/FUE/ARN/2026-09-13?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=LS3130-W61608-W61731",
+    "raw": {
+      "rt_total_mode": "sum_oneways",
+      "price_outbound_min": 345.0,
+      "price_return_min": 129.0
+    }
+  },
+  {
+    "origin": "ARN",
+    "dest": "ACE",
+    "departure_date": "2026-09-05",
+    "return_date": "2026-09-15",
+    "price": 478.0,
+    "price_outbound": 339.0,
+    "price_return": 139.0,
+    "duration": "Outbound: 10h 50m<br/>Return: 16h 10m",
+    "stops": "Outbound: 2 stops / Return: 1 stop",
+    "url_outbound": "https://skiplagged.com/flights/ARN/ACE/2026-09-05?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=LH811-LH100-4Y316",
+    "url_return": "https://skiplagged.com/flights/ACE/ARN/2026-09-15?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=VY2471-VY1265",
+    "raw": {
+      "rt_total_mode": "sum_oneways",
+      "price_outbound_min": 339.0,
+      "price_return_min": 139.0
+    }
+  },
+  {
+    "origin": "ARN",
+    "dest": "FUE",
+    "departure_date": "2026-09-08",
+    "return_date": "2026-09-12",
+    "price": 481.0,
+    "price_outbound": 345.0,
+    "price_return": 136.0,
+    "duration": "Outbound: 11h 15m<br/>Return: 27h 45m",
+    "stops": "Outbound: 2 stops / Return: 2 stops",
+    "url_outbound": "https://skiplagged.com/flights/ARN/FUE/2026-09-08?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=EW4672-LX1017-WK212",
+    "url_return": "https://skiplagged.com/flights/ARN/FUE/2026-09-05?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=W61732-W61705-VY3016",
+    "raw": {
+      "rt_total_mode": "sum_oneways",
+      "price_outbound_min": 345.0,
+      "price_return_min": 136.0
+    }
+  },
+  {
+    "origin": "ARN",
+    "dest": "FUE",
+    "departure_date": "2026-09-06",
+    "return_date": "2026-09-13",
+    "price": 484.0,
+    "price_outbound": 322.0,
+    "price_return": 162.0,
+    "duration": "Outbound: 11h 10m<br/>Return: 31h 50m",
+    "stops": "Outbound: 1 stop / Return: 2 stops",
+    "url_outbound": "https://skiplagged.com/flights/ARN/FUE/2026-09-06?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=LH811-4Y300",
+    "url_return": "https://skiplagged.com/flights/FUE/ARN/2026-09-12?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=LS3826-W61608-W61731",
+    "raw": {
+      "rt_total_mode": "sum_oneways",
+      "price_outbound_min": 322.0,
+      "price_return_min": 162.0
+    }
+  },
+  {
+    "origin": "ARN",
+    "dest": "SVQ",
+    "departure_date": "2026-09-05",
+    "return_date": "2026-09-12",
+    "price": 484.0,
+    "price_outbound": 121.0,
+    "price_return": 363.0,
+    "duration": "Outbound: 11h 40m<br/>Return: 10h 45m",
+    "stops": "Outbound: 1 stop / Return: 1 stop",
+    "url_outbound": "https://skiplagged.com/flights/ARN/SVQ/2026-09-05?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=KL1226-KL2544",
+    "url_return": "https://skiplagged.com/flights/SVQ/ARN/2026-09-12?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=VL1823-LH2420",
+    "raw": {
+      "rt_total_mode": "sum_oneways",
+      "price_outbound_min": 121.0,
+      "price_return_min": 363.0
+    }
+  },
+  {
+    "origin": "ARN",
+    "dest": "ADD",
+    "departure_date": "2026-09-08",
+    "return_date": "2026-09-12",
+    "price": 487.0,
+    "price_outbound": 90.0,
+    "price_return": 397.0,
+    "duration": "Outbound: None<br/>Return: 25h",
+    "stops": "Outbound: None / Return: 2 stops",
+    "url_outbound": null,
+    "url_return": "https://skiplagged.com/flights/ADD/ARN/2026-09-12?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=MS852-VF392-PC1283",
+    "raw": {
+      "rt_total_mode": "sum_oneways",
+      "price_outbound_min": 90.0,
+      "price_return_min": 397.0
+    }
+  },
+  {
+    "origin": "ARN",
+    "dest": "ACE",
+    "departure_date": "2026-09-05",
+    "return_date": "2026-09-13",
+    "price": 489.0,
+    "price_outbound": 339.0,
+    "price_return": 150.0,
+    "duration": "Outbound: 10h 50m<br/>Return: 47h",
+    "stops": "Outbound: 2 stops / Return: 2 stops",
+    "url_outbound": "https://skiplagged.com/flights/ARN/ACE/2026-09-05?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=LH811-LH100-4Y316",
+    "url_return": "https://skiplagged.com/flights/ACE/ARN/2026-09-13?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=FR251-FR533-W61731",
+    "raw": {
+      "rt_total_mode": "sum_oneways",
+      "price_outbound_min": 339.0,
+      "price_return_min": 150.0
+    }
+  },
+  {
+    "origin": "ARN",
+    "dest": "FUE",
+    "departure_date": "2026-09-05",
+    "return_date": "2026-09-13",
+    "price": 491.0,
+    "price_outbound": 329.0,
+    "price_return": 162.0,
+    "duration": "Outbound: 41h 5m<br/>Return: 31h 50m",
+    "stops": "Outbound: 2 stops / Return: 2 stops",
+    "url_outbound": "https://skiplagged.com/flights/ARN/ADD/2026-09-08?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=PC1280-PC690-ET413",
+    "url_return": "https://skiplagged.com/flights/FUE/ARN/2026-09-12?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=LS3826-W61608-W61731",
+    "raw": {
+      "rt_total_mode": "sum_oneways",
+      "price_outbound_min": 329.0,
+      "price_return_min": 162.0
+    }
+  },
+  {
+    "origin": "ARN",
+    "dest": "FUE",
+    "departure_date": "2026-09-08",
+    "return_date": "2026-09-13",
+    "price": 507.0,
+    "price_outbound": 345.0,
+    "price_return": 162.0,
+    "duration": "Outbound: 11h 15m<br/>Return: 31h 50m",
+    "stops": "Outbound: 2 stops / Return: 2 stops",
+    "url_outbound": "https://skiplagged.com/flights/ARN/FUE/2026-09-08?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=EW4672-LX1017-WK212",
+    "url_return": "https://skiplagged.com/flights/FUE/ARN/2026-09-12?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=LS3826-W61608-W61731",
+    "raw": {
+      "rt_total_mode": "sum_oneways",
+      "price_outbound_min": 345.0,
+      "price_return_min": 162.0
+    }
+  },
+  {
+    "origin": "ARN",
+    "dest": "ACE",
+    "departure_date": "2026-09-06",
+    "return_date": "2026-09-14",
+    "price": 514.0,
+    "price_outbound": 124.0,
+    "price_return": 390.0,
+    "duration": "Outbound: 41h 35m<br/>Return: 19h 30m",
+    "stops": "Outbound: 2 stops / Return: 2 stops",
+    "url_outbound": "https://skiplagged.com/flights/ARN/ACE/2026-09-06?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=D85601-VY3919-VY2472",
+    "url_return": "https://skiplagged.com/flights/ACE/ARN/2026-09-14?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=UX9076-AF1401-AF1262",
+    "raw": {
+      "rt_total_mode": "sum_oneways",
+      "price_outbound_min": 124.0,
+      "price_return_min": 390.0
+    }
+  },
+  {
+    "origin": "ARN",
+    "dest": "ACE",
+    "departure_date": "2026-09-07",
+    "return_date": "2026-09-14",
+    "price": 521.0,
+    "price_outbound": 131.0,
+    "price_return": 390.0,
+    "duration": "Outbound: 17h 35m<br/>Return: 19h 30m",
+    "stops": "Outbound: 2 stops / Return: 2 stops",
+    "url_outbound": "https://skiplagged.com/flights/ARN/ACE/2026-09-07?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=D85601-VY3905-VY2472",
+    "url_return": "https://skiplagged.com/flights/ACE/ARN/2026-09-14?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=UX9076-AF1401-AF1262",
+    "raw": {
+      "rt_total_mode": "sum_oneways",
+      "price_outbound_min": 131.0,
+      "price_return_min": 390.0
+    }
+  },
+  {
+    "origin": "ARN",
+    "dest": "ACE",
+    "departure_date": "2026-09-08",
+    "return_date": "2026-09-12",
+    "price": 523.0,
+    "price_outbound": 403.0,
+    "price_return": 120.0,
+    "duration": "Outbound: 12h 25m<br/>Return: 32h 25m",
+    "stops": "Outbound: 1 stop / Return: 2 stops",
+    "url_outbound": "https://skiplagged.com/flights/ARN/ACE/2026-09-08?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=SN2298-SN3787",
+    "url_return": "https://skiplagged.com/flights/ACE/ARN/2026-09-12?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=U28124-W61608-W61731",
+    "raw": {
+      "rt_total_mode": "sum_oneways",
+      "price_outbound_min": 403.0,
+      "price_return_min": 120.0
+    }
+  },
+  {
+    "origin": "ARN",
+    "dest": "ACE",
+    "departure_date": "2026-09-08",
+    "return_date": "2026-09-15",
+    "price": 542.0,
+    "price_outbound": 403.0,
+    "price_return": 139.0,
+    "duration": "Outbound: 12h 25m<br/>Return: 16h 10m",
+    "stops": "Outbound: 1 stop / Return: 1 stop",
+    "url_outbound": "https://skiplagged.com/flights/ARN/ACE/2026-09-08?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=SN2298-SN3787",
+    "url_return": "https://skiplagged.com/flights/ACE/ARN/2026-09-15?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=VY2471-VY1265",
+    "raw": {
+      "rt_total_mode": "sum_oneways",
+      "price_outbound_min": 403.0,
+      "price_return_min": 139.0
+    }
+  },
+  {
+    "origin": "ARN",
+    "dest": "ACE",
+    "departure_date": "2026-09-08",
+    "return_date": "2026-09-13",
+    "price": 553.0,
+    "price_outbound": 403.0,
+    "price_return": 150.0,
+    "duration": "Outbound: 12h 25m<br/>Return: 47h",
+    "stops": "Outbound: 1 stop / Return: 2 stops",
+    "url_outbound": "https://skiplagged.com/flights/ARN/ACE/2026-09-08?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=SN2298-SN3787",
+    "url_return": "https://skiplagged.com/flights/ACE/ARN/2026-09-13?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=FR251-FR533-W61731",
+    "raw": {
+      "rt_total_mode": "sum_oneways",
+      "price_outbound_min": 403.0,
+      "price_return_min": 150.0
+    }
+  },
+  {
+    "origin": "ARN",
+    "dest": "SVQ",
+    "departure_date": "2026-09-06",
+    "return_date": "2026-09-15",
+    "price": 623.0,
+    "price_outbound": 548.0,
+    "price_return": 75.0,
+    "duration": "Outbound: 10h 30m<br/>Return: 10h 55m",
+    "stops": "Outbound: 1 stop / Return: 1 stop",
+    "url_outbound": "https://skiplagged.com/flights/ARN/SVQ/2026-09-06?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=EW4672-EW9568",
+    "url_return": "https://skiplagged.com/flights/SVQ/ARN/2026-09-15?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=VY2221-VY1265",
+    "raw": {
+      "rt_total_mode": "sum_oneways",
+      "price_outbound_min": 548.0,
+      "price_return_min": 75.0
+    }
+  },
+  {
+    "origin": "ARN",
+    "dest": "NBO",
+    "departure_date": "2026-09-06",
+    "return_date": "2026-09-15",
+    "price": 652.0,
+    "price_outbound": 302.0,
+    "price_return": 350.0,
+    "duration": "Outbound: 31h 45m<br/>Return: 46h 20m",
+    "stops": "Outbound: 2 stops / Return: 2 stops",
+    "url_outbound": "https://skiplagged.com/flights/ARN/NBO/2026-09-06?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=PC1284-PC830-OV365",
+    "url_return": "https://skiplagged.com/flights/NBO/ARN/2026-09-15?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=G9735-G9283-VF265",
+    "raw": {
+      "rt_total_mode": "sum_oneways",
+      "price_outbound_min": 302.0,
+      "price_return_min": 350.0
+    }
+  },
+  {
+    "origin": "ARN",
+    "dest": "NBO",
+    "departure_date": "2026-09-08",
+    "return_date": "2026-09-15",
+    "price": 652.0,
+    "price_outbound": 302.0,
+    "price_return": 350.0,
+    "duration": "Outbound: 24h 10m<br/>Return: 46h 20m",
+    "stops": "Outbound: 2 stops / Return: 2 stops",
+    "url_outbound": "https://skiplagged.com/flights/ARN/NBO/2026-09-08?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=PC1280-PC830-OV365",
+    "url_return": "https://skiplagged.com/flights/NBO/ARN/2026-09-15?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=G9735-G9283-VF265",
+    "raw": {
+      "rt_total_mode": "sum_oneways",
+      "price_outbound_min": 302.0,
+      "price_return_min": 350.0
+    }
+  },
+  {
+    "origin": "ARN",
+    "dest": "SVQ",
+    "departure_date": "2026-09-06",
+    "return_date": "2026-09-13",
+    "price": 652.0,
+    "price_outbound": 548.0,
+    "price_return": 104.0,
+    "duration": "Outbound: 10h 30m<br/>Return: 8h 40m",
+    "stops": "Outbound: 1 stop / Return: 1 stop",
+    "url_outbound": "https://skiplagged.com/flights/ARN/SVQ/2026-09-06?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=EW4672-EW9568",
+    "url_return": "https://skiplagged.com/flights/SVQ/ARN/2026-09-13?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=IB1752-IB827",
+    "raw": {
+      "rt_total_mode": "sum_oneways",
+      "price_outbound_min": 548.0,
+      "price_return_min": 104.0
+    }
+  },
+  {
+    "origin": "ARN",
+    "dest": "NBO",
+    "departure_date": "2026-09-06",
+    "return_date": "2026-09-13",
+    "price": 682.0,
+    "price_outbound": 302.0,
+    "price_return": 380.0,
+    "duration": "Outbound: 31h 45m<br/>Return: 46h 20m",
+    "stops": "Outbound: 2 stops / Return: 2 stops",
+    "url_outbound": "https://skiplagged.com/flights/ARN/NBO/2026-09-06?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=PC1284-PC830-OV365",
+    "url_return": "https://skiplagged.com/flights/NBO/ARN/2026-09-13?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=G9735-G9283-VF265",
+    "raw": {
+      "rt_total_mode": "sum_oneways",
+      "price_outbound_min": 302.0,
+      "price_return_min": 380.0
+    }
+  },
+  {
+    "origin": "ARN",
+    "dest": "NBO",
+    "departure_date": "2026-09-08",
+    "return_date": "2026-09-13",
+    "price": 682.0,
+    "price_outbound": 302.0,
+    "price_return": 380.0,
+    "duration": "Outbound: 24h 10m<br/>Return: 46h 20m",
+    "stops": "Outbound: 2 stops / Return: 2 stops",
+    "url_outbound": "https://skiplagged.com/flights/ARN/NBO/2026-09-08?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=PC1280-PC830-OV365",
+    "url_return": "https://skiplagged.com/flights/NBO/ARN/2026-09-13?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=G9735-G9283-VF265",
+    "raw": {
+      "rt_total_mode": "sum_oneways",
+      "price_outbound_min": 302.0,
+      "price_return_min": 380.0
+    }
+  },
+  {
+    "origin": "ARN",
+    "dest": "ADD",
+    "departure_date": "2026-09-07",
+    "return_date": "2026-09-13",
+    "price": 704.0,
+    "price_outbound": 323.0,
+    "price_return": 381.0,
+    "duration": "Outbound: 37h 35m<br/>Return: 35h 50m",
+    "stops": "Outbound: 2 stops / Return: 2 stops",
+    "url_outbound": "https://skiplagged.com/flights/ARN/ADD/2026-09-07?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=PC1282-VF213-ET413",
+    "url_return": "https://skiplagged.com/flights/ADD/ARN/2026-09-13?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=EY6336-EY79-FR2878",
+    "raw": {
+      "rt_total_mode": "sum_oneways",
+      "price_outbound_min": 323.0,
+      "price_return_min": 381.0
+    }
+  },
+  {
+    "origin": "ARN",
+    "dest": "ADD",
+    "departure_date": "2026-09-07",
+    "return_date": "2026-09-14",
+    "price": 704.0,
+    "price_outbound": 323.0,
+    "price_return": 381.0,
+    "duration": "Outbound: 37h 35m<br/>Return: 39h 50m",
+    "stops": "Outbound: 2 stops / Return: 2 stops",
+    "url_outbound": "https://skiplagged.com/flights/ARN/ADD/2026-09-07?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=PC1282-VF213-ET413",
+    "url_return": "https://skiplagged.com/flights/ADD/ARN/2026-09-14?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=EY6336-EY79-FR2878",
+    "raw": {
+      "rt_total_mode": "sum_oneways",
+      "price_outbound_min": 323.0,
+      "price_return_min": 381.0
+    }
+  },
+  {
+    "origin": "ARN",
+    "dest": "ADD",
+    "departure_date": "2026-09-07",
+    "return_date": "2026-09-15",
+    "price": 707.0,
+    "price_outbound": 323.0,
+    "price_return": 384.0,
+    "duration": "Outbound: 37h 35m<br/>Return: 36h 35m",
+    "stops": "Outbound: 2 stops / Return: 2 stops",
+    "url_outbound": "https://skiplagged.com/flights/ARN/ADD/2026-09-07?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=PC1282-VF213-ET413",
+    "url_return": "https://skiplagged.com/flights/ADD/ARN/2026-09-15?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=EY6336-EY79-FR2878",
+    "raw": {
+      "rt_total_mode": "sum_oneways",
+      "price_outbound_min": 323.0,
+      "price_return_min": 384.0
+    }
+  },
+  {
+    "origin": "ARN",
+    "dest": "ADD",
+    "departure_date": "2026-09-07",
+    "return_date": "2026-09-12",
+    "price": 720.0,
+    "price_outbound": 323.0,
+    "price_return": 397.0,
+    "duration": "Outbound: 37h 35m<br/>Return: 25h",
+    "stops": "Outbound: 2 stops / Return: 2 stops",
+    "url_outbound": "https://skiplagged.com/flights/ARN/ADD/2026-09-07?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=PC1282-VF213-ET413",
+    "url_return": "https://skiplagged.com/flights/ADD/ARN/2026-09-12?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=MS852-VF392-PC1283",
+    "raw": {
+      "rt_total_mode": "sum_oneways",
+      "price_outbound_min": 323.0,
+      "price_return_min": 397.0
+    }
+  },
+  {
+    "origin": "ARN",
+    "dest": "ACE",
+    "departure_date": "2026-09-05",
+    "return_date": "2026-09-14",
+    "price": 729.0,
+    "price_outbound": 339.0,
+    "price_return": 390.0,
+    "duration": "Outbound: 10h 50m<br/>Return: 19h 30m",
+    "stops": "Outbound: 2 stops / Return: 2 stops",
+    "url_outbound": "https://skiplagged.com/flights/ARN/ACE/2026-09-05?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=LH811-LH100-4Y316",
+    "url_return": "https://skiplagged.com/flights/ACE/ARN/2026-09-14?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=UX9076-AF1401-AF1262",
+    "raw": {
+      "rt_total_mode": "sum_oneways",
+      "price_outbound_min": 339.0,
+      "price_return_min": 390.0
+    }
+  },
+  {
+    "origin": "ARN",
+    "dest": "NBO",
+    "departure_date": "2026-09-06",
+    "return_date": "2026-09-14",
+    "price": 732.0,
+    "price_outbound": 302.0,
+    "price_return": 430.0,
+    "duration": "Outbound: 31h 45m<br/>Return: 31h 55m",
+    "stops": "Outbound: 2 stops / Return: 2 stops",
+    "url_outbound": "https://skiplagged.com/flights/ARN/NBO/2026-09-06?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=PC1284-PC830-OV365",
+    "url_return": "https://skiplagged.com/flights/NBO/ARN/2026-09-14?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=EY768-EY61-FR1401",
+    "raw": {
+      "rt_total_mode": "sum_oneways",
+      "price_outbound_min": 302.0,
+      "price_return_min": 430.0
+    }
+  },
+  {
+    "origin": "ARN",
+    "dest": "NBO",
+    "departure_date": "2026-09-08",
+    "return_date": "2026-09-14",
+    "price": 732.0,
+    "price_outbound": 302.0,
+    "price_return": 430.0,
+    "duration": "Outbound: 24h 10m<br/>Return: 31h 55m",
+    "stops": "Outbound: 2 stops / Return: 2 stops",
+    "url_outbound": "https://skiplagged.com/flights/ARN/NBO/2026-09-08?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=PC1280-PC830-OV365",
+    "url_return": "https://skiplagged.com/flights/NBO/ARN/2026-09-14?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=EY768-EY61-FR1401",
+    "raw": {
+      "rt_total_mode": "sum_oneways",
+      "price_outbound_min": 302.0,
+      "price_return_min": 430.0
+    }
+  },
+  {
+    "origin": "ARN",
+    "dest": "NBO",
+    "departure_date": "2026-09-07",
+    "return_date": "2026-09-15",
+    "price": 737.0,
+    "price_outbound": 387.0,
+    "price_return": 350.0,
+    "duration": "Outbound: 23h 55m<br/>Return: 46h 20m",
+    "stops": "Outbound: 2 stops / Return: 2 stops",
+    "url_outbound": "https://skiplagged.com/flights/ARN/NBO/2026-09-07?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=VF266-G9284-G9734",
+    "url_return": "https://skiplagged.com/flights/NBO/ARN/2026-09-15?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=G9735-G9283-VF265",
+    "raw": {
+      "rt_total_mode": "sum_oneways",
+      "price_outbound_min": 387.0,
+      "price_return_min": 350.0
+    }
+  },
+  {
+    "origin": "ARN",
+    "dest": "SVQ",
+    "departure_date": "2026-09-06",
+    "return_date": "2026-09-14",
+    "price": 742.0,
+    "price_outbound": 548.0,
+    "price_return": 194.0,
+    "duration": "Outbound: 10h 30m<br/>Return: 6h 50m",
+    "stops": "Outbound: 1 stop / Return: 1 stop",
+    "url_outbound": "https://skiplagged.com/flights/ARN/SVQ/2026-09-06?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=EW4672-EW9568",
+    "url_return": "https://skiplagged.com/flights/SVQ/ARN/2026-09-14?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=TP1107-TP780",
+    "raw": {
+      "rt_total_mode": "sum_oneways",
+      "price_outbound_min": 548.0,
+      "price_return_min": 194.0
+    }
+  },
+  {
+    "origin": "ARN",
+    "dest": "ADD",
+    "departure_date": "2026-09-05",
+    "return_date": "2026-09-13",
+    "price": 747.0,
+    "price_outbound": 366.0,
+    "price_return": 381.0,
+    "duration": "Outbound: 19h<br/>Return: 35h 50m",
+    "stops": "Outbound: 2 stops / Return: 2 stops",
+    "url_outbound": "https://skiplagged.com/flights/ARN/ADD/2026-09-05?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=PC1282-PC406-EY727",
+    "url_return": "https://skiplagged.com/flights/ADD/ARN/2026-09-13?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=EY6336-EY79-FR2878",
+    "raw": {
+      "rt_total_mode": "sum_oneways",
+      "price_outbound_min": 366.0,
+      "price_return_min": 381.0
+    }
+  },
+  {
+    "origin": "ARN",
+    "dest": "ADD",
+    "departure_date": "2026-09-05",
+    "return_date": "2026-09-14",
+    "price": 747.0,
+    "price_outbound": 366.0,
+    "price_return": 381.0,
+    "duration": "Outbound: 19h<br/>Return: 39h 50m",
+    "stops": "Outbound: 2 stops / Return: 2 stops",
+    "url_outbound": "https://skiplagged.com/flights/ARN/ADD/2026-09-05?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=PC1282-PC406-EY727",
+    "url_return": "https://skiplagged.com/flights/ADD/ARN/2026-09-14?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=EY6336-EY79-FR2878",
+    "raw": {
+      "rt_total_mode": "sum_oneways",
+      "price_outbound_min": 366.0,
+      "price_return_min": 381.0
+    }
+  },
+  {
+    "origin": "ARN",
+    "dest": "ADD",
+    "departure_date": "2026-09-05",
+    "return_date": "2026-09-15",
+    "price": 750.0,
+    "price_outbound": 366.0,
+    "price_return": 384.0,
+    "duration": "Outbound: 19h<br/>Return: 36h 35m",
+    "stops": "Outbound: 2 stops / Return: 2 stops",
+    "url_outbound": "https://skiplagged.com/flights/ARN/ADD/2026-09-05?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=PC1282-PC406-EY727",
+    "url_return": "https://skiplagged.com/flights/ADD/ARN/2026-09-15?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=EY6336-EY79-FR2878",
+    "raw": {
+      "rt_total_mode": "sum_oneways",
+      "price_outbound_min": 366.0,
+      "price_return_min": 384.0
+    }
+  },
+  {
+    "origin": "ARN",
+    "dest": "ADD",
+    "departure_date": "2026-09-05",
+    "return_date": "2026-09-12",
+    "price": 763.0,
+    "price_outbound": 366.0,
+    "price_return": 397.0,
+    "duration": "Outbound: 19h<br/>Return: 25h",
+    "stops": "Outbound: 2 stops / Return: 2 stops",
+    "url_outbound": "https://skiplagged.com/flights/ARN/ADD/2026-09-05?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=PC1282-PC406-EY727",
+    "url_return": "https://skiplagged.com/flights/ADD/ARN/2026-09-12?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=MS852-VF392-PC1283",
+    "raw": {
+      "rt_total_mode": "sum_oneways",
+      "price_outbound_min": 366.0,
+      "price_return_min": 397.0
+    }
+  },
+  {
+    "origin": "ARN",
+    "dest": "NBO",
+    "departure_date": "2026-09-06",
+    "return_date": "2026-09-12",
+    "price": 764.0,
+    "price_outbound": 302.0,
+    "price_return": 462.0,
+    "duration": "Outbound: 31h 45m<br/>Return: 23h 45m",
+    "stops": "Outbound: 2 stops / Return: 2 stops",
+    "url_outbound": "https://skiplagged.com/flights/ARN/NBO/2026-09-06?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=PC1284-PC830-OV365",
+    "url_return": "https://skiplagged.com/flights/NBO/ARN/2026-09-12?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=EY766-EY65-FR1463",
+    "raw": {
+      "rt_total_mode": "sum_oneways",
+      "price_outbound_min": 302.0,
+      "price_return_min": 462.0
+    }
+  },
+  {
+    "origin": "ARN",
+    "dest": "NBO",
+    "departure_date": "2026-09-08",
+    "return_date": "2026-09-12",
+    "price": 764.0,
+    "price_outbound": 302.0,
+    "price_return": 462.0,
+    "duration": "Outbound: 24h 10m<br/>Return: 23h 45m",
+    "stops": "Outbound: 2 stops / Return: 2 stops",
+    "url_outbound": "https://skiplagged.com/flights/ARN/NBO/2026-09-08?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=PC1280-PC830-OV365",
+    "url_return": "https://skiplagged.com/flights/NBO/ARN/2026-09-12?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=EY766-EY65-FR1463",
+    "raw": {
+      "rt_total_mode": "sum_oneways",
+      "price_outbound_min": 302.0,
+      "price_return_min": 462.0
+    }
+  },
+  {
+    "origin": "ARN",
+    "dest": "NBO",
+    "departure_date": "2026-09-07",
+    "return_date": "2026-09-13",
+    "price": 767.0,
+    "price_outbound": 387.0,
+    "price_return": 380.0,
+    "duration": "Outbound: 23h 55m<br/>Return: 46h 20m",
+    "stops": "Outbound: 2 stops / Return: 2 stops",
+    "url_outbound": "https://skiplagged.com/flights/ARN/NBO/2026-09-07?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=VF266-G9284-G9734",
+    "url_return": "https://skiplagged.com/flights/NBO/ARN/2026-09-13?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=G9735-G9283-VF265",
+    "raw": {
+      "rt_total_mode": "sum_oneways",
+      "price_outbound_min": 387.0,
+      "price_return_min": 380.0
+    }
+  },
+  {
+    "origin": "ARN",
+    "dest": "ACE",
+    "departure_date": "2026-09-08",
+    "return_date": "2026-09-14",
+    "price": 793.0,
+    "price_outbound": 403.0,
+    "price_return": 390.0,
+    "duration": "Outbound: 12h 25m<br/>Return: 19h 30m",
+    "stops": "Outbound: 1 stop / Return: 2 stops",
+    "url_outbound": "https://skiplagged.com/flights/ARN/ACE/2026-09-08?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=SN2298-SN3787",
+    "url_return": "https://skiplagged.com/flights/ACE/ARN/2026-09-14?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=UX9076-AF1401-AF1262",
+    "raw": {
+      "rt_total_mode": "sum_oneways",
+      "price_outbound_min": 403.0,
+      "price_return_min": 390.0
+    }
+  },
+  {
+    "origin": "ARN",
+    "dest": "NBO",
+    "departure_date": "2026-09-07",
+    "return_date": "2026-09-14",
+    "price": 817.0,
+    "price_outbound": 387.0,
+    "price_return": 430.0,
+    "duration": "Outbound: 23h 55m<br/>Return: 31h 55m",
+    "stops": "Outbound: 2 stops / Return: 2 stops",
+    "url_outbound": "https://skiplagged.com/flights/ARN/NBO/2026-09-07?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=VF266-G9284-G9734",
+    "url_return": "https://skiplagged.com/flights/NBO/ARN/2026-09-14?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=EY768-EY61-FR1401",
+    "raw": {
+      "rt_total_mode": "sum_oneways",
+      "price_outbound_min": 387.0,
+      "price_return_min": 430.0
+    }
+  },
+  {
+    "origin": "ARN",
+    "dest": "NBO",
+    "departure_date": "2026-09-05",
+    "return_date": "2026-09-15",
+    "price": 819.0,
+    "price_outbound": 469.0,
+    "price_return": 350.0,
+    "duration": "Outbound: 31h 10m<br/>Return: 46h 20m",
+    "stops": "Outbound: 2 stops / Return: 2 stops",
+    "url_outbound": "https://skiplagged.com/flights/ARN/NBO/2026-09-05?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=PC1284-G9286-G9734",
+    "url_return": "https://skiplagged.com/flights/NBO/ARN/2026-09-15?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=G9735-G9283-VF265",
+    "raw": {
+      "rt_total_mode": "sum_oneways",
+      "price_outbound_min": 469.0,
+      "price_return_min": 350.0
+    }
+  },
+  {
+    "origin": "ARN",
+    "dest": "JNB",
+    "departure_date": "2026-09-05",
+    "return_date": "2026-09-13",
+    "price": 833.0,
+    "price_outbound": 458.0,
+    "price_return": 375.0,
+    "duration": "Outbound: 15h 55m<br/>Return: 50h 15m",
+    "stops": "Outbound: 1 stop / Return: 2 stops",
+    "url_outbound": "https://skiplagged.com/flights/ARN/JNB/2026-09-05?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=TK1796-TK42",
+    "url_return": "https://skiplagged.com/flights/JNB/ARN/2026-09-13?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=4Z923-Z0796-D84452",
+    "raw": {
+      "rt_total_mode": "sum_oneways",
+      "price_outbound_min": 458.0,
+      "price_return_min": 375.0
+    }
+  },
+  {
+    "origin": "ARN",
+    "dest": "JNB",
+    "departure_date": "2026-09-06",
+    "return_date": "2026-09-13",
+    "price": 842.0,
+    "price_outbound": 467.0,
+    "price_return": 375.0,
+    "duration": "Outbound: 15h 55m<br/>Return: 50h 15m",
+    "stops": "Outbound: 1 stop / Return: 2 stops",
+    "url_outbound": "https://skiplagged.com/flights/ARN/JNB/2026-09-06?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=TK1796-TK42",
+    "url_return": "https://skiplagged.com/flights/JNB/ARN/2026-09-13?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=4Z923-Z0796-D84452",
+    "raw": {
+      "rt_total_mode": "sum_oneways",
+      "price_outbound_min": 467.0,
+      "price_return_min": 375.0
+    }
+  },
+  {
+    "origin": "ARN",
+    "dest": "NBO",
+    "departure_date": "2026-09-05",
+    "return_date": "2026-09-13",
+    "price": 849.0,
+    "price_outbound": 469.0,
+    "price_return": 380.0,
+    "duration": "Outbound: 31h 10m<br/>Return: 46h 20m",
+    "stops": "Outbound: 2 stops / Return: 2 stops",
+    "url_outbound": "https://skiplagged.com/flights/ARN/NBO/2026-09-05?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=PC1284-G9286-G9734",
+    "url_return": "https://skiplagged.com/flights/NBO/ARN/2026-09-13?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=G9735-G9283-VF265",
+    "raw": {
+      "rt_total_mode": "sum_oneways",
+      "price_outbound_min": 469.0,
+      "price_return_min": 380.0
+    }
+  },
+  {
+    "origin": "ARN",
+    "dest": "NBO",
+    "departure_date": "2026-09-07",
+    "return_date": "2026-09-12",
+    "price": 849.0,
+    "price_outbound": 387.0,
+    "price_return": 462.0,
+    "duration": "Outbound: 23h 55m<br/>Return: 23h 45m",
+    "stops": "Outbound: 2 stops / Return: 2 stops",
+    "url_outbound": "https://skiplagged.com/flights/ARN/NBO/2026-09-07?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=VF266-G9284-G9734",
+    "url_return": "https://skiplagged.com/flights/NBO/ARN/2026-09-12?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=EY766-EY65-FR1463",
+    "raw": {
+      "rt_total_mode": "sum_oneways",
+      "price_outbound_min": 387.0,
+      "price_return_min": 462.0
+    }
+  },
+  {
+    "origin": "ARN",
+    "dest": "JNB",
+    "departure_date": "2026-09-05",
+    "return_date": "2026-09-14",
+    "price": 851.0,
+    "price_outbound": 458.0,
+    "price_return": 393.0,
+    "duration": "Outbound: 15h 55m<br/>Return: 23h 25m",
+    "stops": "Outbound: 1 stop / Return: 1 stop",
+    "url_outbound": "https://skiplagged.com/flights/ARN/JNB/2026-09-05?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=TK1796-TK42",
+    "url_return": "https://skiplagged.com/flights/JNB/ARN/2026-09-14?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=QR1364-QR167",
+    "raw": {
+      "rt_total_mode": "sum_oneways",
+      "price_outbound_min": 458.0,
+      "price_return_min": 393.0
+    }
+  },
+  {
+    "origin": "ARN",
+    "dest": "JNB",
+    "departure_date": "2026-09-05",
+    "return_date": "2026-09-15",
+    "price": 851.0,
+    "price_outbound": 458.0,
+    "price_return": 393.0,
+    "duration": "Outbound: 15h 55m<br/>Return: 23h 25m",
+    "stops": "Outbound: 1 stop / Return: 1 stop",
+    "url_outbound": "https://skiplagged.com/flights/ARN/JNB/2026-09-05?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=TK1796-TK42",
+    "url_return": "https://skiplagged.com/flights/JNB/ARN/2026-09-15?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=QR1364-QR167",
+    "raw": {
+      "rt_total_mode": "sum_oneways",
+      "price_outbound_min": 458.0,
+      "price_return_min": 393.0
+    }
+  },
+  {
+    "origin": "ARN",
+    "dest": "JNB",
+    "departure_date": "2026-09-06",
+    "return_date": "2026-09-14",
+    "price": 860.0,
+    "price_outbound": 467.0,
+    "price_return": 393.0,
+    "duration": "Outbound: 15h 55m<br/>Return: 23h 25m",
+    "stops": "Outbound: 1 stop / Return: 1 stop",
+    "url_outbound": "https://skiplagged.com/flights/ARN/JNB/2026-09-06?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=TK1796-TK42",
+    "url_return": "https://skiplagged.com/flights/JNB/ARN/2026-09-14?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=QR1364-QR167",
+    "raw": {
+      "rt_total_mode": "sum_oneways",
+      "price_outbound_min": 467.0,
+      "price_return_min": 393.0
+    }
+  },
+  {
+    "origin": "ARN",
+    "dest": "JNB",
+    "departure_date": "2026-09-06",
+    "return_date": "2026-09-15",
+    "price": 860.0,
+    "price_outbound": 467.0,
+    "price_return": 393.0,
+    "duration": "Outbound: 15h 55m<br/>Return: 23h 25m",
+    "stops": "Outbound: 1 stop / Return: 1 stop",
+    "url_outbound": "https://skiplagged.com/flights/ARN/JNB/2026-09-06?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=TK1796-TK42",
+    "url_return": "https://skiplagged.com/flights/JNB/ARN/2026-09-15?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=QR1364-QR167",
+    "raw": {
+      "rt_total_mode": "sum_oneways",
+      "price_outbound_min": 467.0,
+      "price_return_min": 393.0
+    }
+  },
+  {
+    "origin": "ARN",
+    "dest": "JNB",
+    "departure_date": "2026-09-05",
+    "return_date": "2026-09-12",
+    "price": 866.0,
+    "price_outbound": 458.0,
+    "price_return": 408.0,
+    "duration": "Outbound: 15h 55m<br/>Return: 23h 25m",
+    "stops": "Outbound: 1 stop / Return: 1 stop",
+    "url_outbound": "https://skiplagged.com/flights/ARN/JNB/2026-09-05?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=TK1796-TK42",
+    "url_return": "https://skiplagged.com/flights/JNB/ARN/2026-09-12?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=QR1364-QR167",
+    "raw": {
+      "rt_total_mode": "sum_oneways",
+      "price_outbound_min": 458.0,
+      "price_return_min": 408.0
+    }
+  },
+  {
+    "origin": "ARN",
+    "dest": "JNB",
+    "departure_date": "2026-09-06",
+    "return_date": "2026-09-12",
+    "price": 875.0,
+    "price_outbound": 467.0,
+    "price_return": 408.0,
+    "duration": "Outbound: 15h 55m<br/>Return: 23h 25m",
+    "stops": "Outbound: 1 stop / Return: 1 stop",
+    "url_outbound": "https://skiplagged.com/flights/ARN/JNB/2026-09-06?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=TK1796-TK42",
+    "url_return": "https://skiplagged.com/flights/JNB/ARN/2026-09-12?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=QR1364-QR167",
+    "raw": {
+      "rt_total_mode": "sum_oneways",
+      "price_outbound_min": 467.0,
+      "price_return_min": 408.0
+    }
+  },
+  {
+    "origin": "ARN",
+    "dest": "JNB",
+    "departure_date": "2026-09-07",
+    "return_date": "2026-09-13",
+    "price": 875.0,
+    "price_outbound": 500.0,
+    "price_return": 375.0,
+    "duration": "Outbound: 15h 15m<br/>Return: 50h 15m",
+    "stops": "Outbound: 1 stop / Return: 2 stops",
+    "url_outbound": "https://skiplagged.com/flights/ARN/JNB/2026-09-07?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=ET715-ET809",
+    "url_return": "https://skiplagged.com/flights/JNB/ARN/2026-09-13?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=4Z923-Z0796-D84452",
+    "raw": {
+      "rt_total_mode": "sum_oneways",
+      "price_outbound_min": 500.0,
+      "price_return_min": 375.0
+    }
+  },
+  {
+    "origin": "ARN",
+    "dest": "JNB",
+    "departure_date": "2026-09-08",
+    "return_date": "2026-09-13",
+    "price": 875.0,
+    "price_outbound": 500.0,
+    "price_return": 375.0,
+    "duration": "Outbound: 15h 15m<br/>Return: 50h 15m",
+    "stops": "Outbound: 1 stop / Return: 2 stops",
+    "url_outbound": "https://skiplagged.com/flights/ARN/JNB/2026-09-08?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=ET715-ET809",
+    "url_return": "https://skiplagged.com/flights/JNB/ARN/2026-09-13?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=4Z923-Z0796-D84452",
+    "raw": {
+      "rt_total_mode": "sum_oneways",
+      "price_outbound_min": 500.0,
+      "price_return_min": 375.0
+    }
+  },
+  {
+    "origin": "ARN",
+    "dest": "JNB",
+    "departure_date": "2026-09-07",
+    "return_date": "2026-09-14",
+    "price": 893.0,
+    "price_outbound": 500.0,
+    "price_return": 393.0,
+    "duration": "Outbound: 15h 15m<br/>Return: 23h 25m",
+    "stops": "Outbound: 1 stop / Return: 1 stop",
+    "url_outbound": "https://skiplagged.com/flights/ARN/JNB/2026-09-07?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=ET715-ET809",
+    "url_return": "https://skiplagged.com/flights/JNB/ARN/2026-09-14?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=QR1364-QR167",
+    "raw": {
+      "rt_total_mode": "sum_oneways",
+      "price_outbound_min": 500.0,
+      "price_return_min": 393.0
+    }
+  },
+  {
+    "origin": "ARN",
+    "dest": "JNB",
+    "departure_date": "2026-09-07",
+    "return_date": "2026-09-15",
+    "price": 893.0,
+    "price_outbound": 500.0,
+    "price_return": 393.0,
+    "duration": "Outbound: 15h 15m<br/>Return: 23h 25m",
+    "stops": "Outbound: 1 stop / Return: 1 stop",
+    "url_outbound": "https://skiplagged.com/flights/ARN/JNB/2026-09-07?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=ET715-ET809",
+    "url_return": "https://skiplagged.com/flights/JNB/ARN/2026-09-15?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=QR1364-QR167",
+    "raw": {
+      "rt_total_mode": "sum_oneways",
+      "price_outbound_min": 500.0,
+      "price_return_min": 393.0
+    }
+  },
+  {
+    "origin": "ARN",
+    "dest": "JNB",
+    "departure_date": "2026-09-08",
+    "return_date": "2026-09-14",
+    "price": 893.0,
+    "price_outbound": 500.0,
+    "price_return": 393.0,
+    "duration": "Outbound: 15h 15m<br/>Return: 23h 25m",
+    "stops": "Outbound: 1 stop / Return: 1 stop",
+    "url_outbound": "https://skiplagged.com/flights/ARN/JNB/2026-09-08?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=ET715-ET809",
+    "url_return": "https://skiplagged.com/flights/JNB/ARN/2026-09-14?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=QR1364-QR167",
+    "raw": {
+      "rt_total_mode": "sum_oneways",
+      "price_outbound_min": 500.0,
+      "price_return_min": 393.0
+    }
+  },
+  {
+    "origin": "ARN",
+    "dest": "JNB",
+    "departure_date": "2026-09-08",
+    "return_date": "2026-09-15",
+    "price": 893.0,
+    "price_outbound": 500.0,
+    "price_return": 393.0,
+    "duration": "Outbound: 15h 15m<br/>Return: 23h 25m",
+    "stops": "Outbound: 1 stop / Return: 1 stop",
+    "url_outbound": "https://skiplagged.com/flights/ARN/JNB/2026-09-08?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=ET715-ET809",
+    "url_return": "https://skiplagged.com/flights/JNB/ARN/2026-09-15?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=QR1364-QR167",
+    "raw": {
+      "rt_total_mode": "sum_oneways",
+      "price_outbound_min": 500.0,
+      "price_return_min": 393.0
+    }
+  },
+  {
+    "origin": "ARN",
+    "dest": "ADD",
+    "departure_date": "2026-09-06",
+    "return_date": "2026-09-13",
+    "price": 896.0,
+    "price_outbound": 515.0,
+    "price_return": 381.0,
+    "duration": "Outbound: 7h 45m<br/>Return: 35h 50m",
+    "stops": "Outbound: Nonstop / Return: 2 stops",
+    "url_outbound": "https://skiplagged.com/flights/ARN/ADD/2026-09-06?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=ET715~",
+    "url_return": "https://skiplagged.com/flights/ADD/ARN/2026-09-13?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=EY6336-EY79-FR2878",
+    "raw": {
+      "rt_total_mode": "sum_oneways",
+      "price_outbound_min": 515.0,
+      "price_return_min": 381.0
+    }
+  },
+  {
+    "origin": "ARN",
+    "dest": "ADD",
+    "departure_date": "2026-09-06",
+    "return_date": "2026-09-14",
+    "price": 896.0,
+    "price_outbound": 515.0,
+    "price_return": 381.0,
+    "duration": "Outbound: 7h 45m<br/>Return: 39h 50m",
+    "stops": "Outbound: Nonstop / Return: 2 stops",
+    "url_outbound": "https://skiplagged.com/flights/ARN/ADD/2026-09-06?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=ET715~",
+    "url_return": "https://skiplagged.com/flights/ADD/ARN/2026-09-14?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=EY6336-EY79-FR2878",
+    "raw": {
+      "rt_total_mode": "sum_oneways",
+      "price_outbound_min": 515.0,
+      "price_return_min": 381.0
+    }
+  },
+  {
+    "origin": "ARN",
+    "dest": "NBO",
+    "departure_date": "2026-09-05",
+    "return_date": "2026-09-14",
+    "price": 899.0,
+    "price_outbound": 469.0,
+    "price_return": 430.0,
+    "duration": "Outbound: 31h 10m<br/>Return: 31h 55m",
+    "stops": "Outbound: 2 stops / Return: 2 stops",
+    "url_outbound": "https://skiplagged.com/flights/ARN/NBO/2026-09-05?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=PC1284-G9286-G9734",
+    "url_return": "https://skiplagged.com/flights/NBO/ARN/2026-09-14?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=EY768-EY61-FR1401",
+    "raw": {
+      "rt_total_mode": "sum_oneways",
+      "price_outbound_min": 469.0,
+      "price_return_min": 430.0
+    }
+  },
+  {
+    "origin": "ARN",
+    "dest": "ADD",
+    "departure_date": "2026-09-06",
+    "return_date": "2026-09-15",
+    "price": 899.0,
+    "price_outbound": 515.0,
+    "price_return": 384.0,
+    "duration": "Outbound: 7h 45m<br/>Return: 36h 35m",
+    "stops": "Outbound: Nonstop / Return: 2 stops",
+    "url_outbound": "https://skiplagged.com/flights/ARN/ADD/2026-09-06?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=ET715~",
+    "url_return": "https://skiplagged.com/flights/ADD/ARN/2026-09-15?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=EY6336-EY79-FR2878",
+    "raw": {
+      "rt_total_mode": "sum_oneways",
+      "price_outbound_min": 515.0,
+      "price_return_min": 384.0
+    }
+  },
+  {
+    "origin": "ARN",
+    "dest": "JNB",
+    "departure_date": "2026-09-07",
+    "return_date": "2026-09-12",
+    "price": 908.0,
+    "price_outbound": 500.0,
+    "price_return": 408.0,
+    "duration": "Outbound: 15h 15m<br/>Return: 23h 25m",
+    "stops": "Outbound: 1 stop / Return: 1 stop",
+    "url_outbound": "https://skiplagged.com/flights/ARN/JNB/2026-09-07?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=ET715-ET809",
+    "url_return": "https://skiplagged.com/flights/JNB/ARN/2026-09-12?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=QR1364-QR167",
+    "raw": {
+      "rt_total_mode": "sum_oneways",
+      "price_outbound_min": 500.0,
+      "price_return_min": 408.0
+    }
+  },
+  {
+    "origin": "ARN",
+    "dest": "JNB",
+    "departure_date": "2026-09-08",
+    "return_date": "2026-09-12",
+    "price": 908.0,
+    "price_outbound": 500.0,
+    "price_return": 408.0,
+    "duration": "Outbound: 15h 15m<br/>Return: 23h 25m",
+    "stops": "Outbound: 1 stop / Return: 1 stop",
+    "url_outbound": "https://skiplagged.com/flights/ARN/JNB/2026-09-08?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=ET715-ET809",
+    "url_return": "https://skiplagged.com/flights/JNB/ARN/2026-09-12?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=QR1364-QR167",
+    "raw": {
+      "rt_total_mode": "sum_oneways",
+      "price_outbound_min": 500.0,
+      "price_return_min": 408.0
+    }
+  },
+  {
+    "origin": "ARN",
+    "dest": "SVQ",
+    "departure_date": "2026-09-06",
+    "return_date": "2026-09-12",
+    "price": 911.0,
+    "price_outbound": 548.0,
+    "price_return": 363.0,
+    "duration": "Outbound: 10h 30m<br/>Return: 10h 45m",
+    "stops": "Outbound: 1 stop / Return: 1 stop",
+    "url_outbound": "https://skiplagged.com/flights/ARN/SVQ/2026-09-06?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=EW4672-EW9568",
+    "url_return": "https://skiplagged.com/flights/SVQ/ARN/2026-09-12?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=VL1823-LH2420",
+    "raw": {
+      "rt_total_mode": "sum_oneways",
+      "price_outbound_min": 548.0,
+      "price_return_min": 363.0
+    }
+  },
+  {
+    "origin": "ARN",
+    "dest": "ADD",
+    "departure_date": "2026-09-06",
+    "return_date": "2026-09-12",
+    "price": 912.0,
+    "price_outbound": 515.0,
+    "price_return": 397.0,
+    "duration": "Outbound: 7h 45m<br/>Return: 25h",
+    "stops": "Outbound: Nonstop / Return: 2 stops",
+    "url_outbound": "https://skiplagged.com/flights/ARN/ADD/2026-09-06?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=ET715~",
+    "url_return": "https://skiplagged.com/flights/ADD/ARN/2026-09-12?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=MS852-VF392-PC1283",
+    "raw": {
+      "rt_total_mode": "sum_oneways",
+      "price_outbound_min": 515.0,
+      "price_return_min": 397.0
+    }
+  },
+  {
+    "origin": "ARN",
+    "dest": "NBO",
+    "departure_date": "2026-09-05",
+    "return_date": "2026-09-12",
+    "price": 931.0,
+    "price_outbound": 469.0,
+    "price_return": 462.0,
+    "duration": "Outbound: 31h 10m<br/>Return: 23h 45m",
+    "stops": "Outbound: 2 stops / Return: 2 stops",
+    "url_outbound": "https://skiplagged.com/flights/ARN/NBO/2026-09-05?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=PC1284-G9286-G9734",
+    "url_return": "https://skiplagged.com/flights/NBO/ARN/2026-09-12?utm_source=mcporter&utm_medium=ai&utm_campaign=skiplagged_mcp#trip=EY766-EY65-FR1463",
+    "raw": {
+      "rt_total_mode": "sum_oneways",
+      "price_outbound_min": 469.0,
+      "price_return_min": 462.0
+    }
+  }
+]
